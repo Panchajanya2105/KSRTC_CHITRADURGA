@@ -12,7 +12,6 @@ An unofficial, offline-capable progressive web application providing live depart
 * **Tailwind CSS** (with `autoprefixer` and `postcss`)
 * **Lucide React** (for modern, scalable iconography)
 * **clsx & tailwind-merge** (for dynamic utility class composition)
-* **html2canvas** (for generating high-quality shareable route card images)
 
 ## Features
 * **Live Departure Board:** Real-time countdowns for upcoming buses departing within the next 15 minutes and beyond.
@@ -20,10 +19,10 @@ An unofficial, offline-capable progressive web application providing live depart
 * **Timetable Search & Autocomplete:** Smart search feature optimized to filter routes based exclusively on destination (with dynamic character highlighting).
 * **Saved Favorite Buses:** Bookmark daily commuting buses for quick offline access and next-departure reminders.
 * **Multi-Station Support:** Easily switch between different stands (Chitradurga, Challakere, Hiriyuru, etc.) to view localized schedules.
-* **Passenger Feedback System:** Integrated modal allowing commuters to share travel experiences or file service complaints.
+* **Passenger Feedback System:** Integrated modal allowing commuters to provide details regarding the time table changes and New bus details
 * **Accessibility Features:** Built-in tools for font size adjustments, 12h/24h time format toggling, dark/light mode themes, and multi-language support.
 * **Export & Native Visual Sharing:** Download filtered search results as PDFs, or generate beautiful, shareable image cards of specific bus routes using native OS share sheets (`navigator.share`).
-* **Responsive Design:** Optimized layout with dynamic view routing (`Home`, `Timetable`, `Stations`, `Favorites`, `About`) for mobile and desktop screens.
+* **Responsive Design:** Optimized layout with dynamic view routing (`Home`, `Timetable`, `Stations`, `About`) for mobile and desktop screens.
 
 ## Getting Started
 
@@ -77,4 +76,3 @@ npm run preview
 
 ## Acknowledgments
 * Data referenced from the official [KSRTC Karnataka Website](https://ksrtc.karnataka.gov.in/).
-* Built using the [Antigravity IDE](https://github.com/google/antigravity).
