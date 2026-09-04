@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Info, PhoneCall, HelpCircle, ShieldCheck, ChevronDown, Phone, MapPin, Building2, Printer, Mail, Send, ExternalLink } from 'lucide-react';
+import { Info, PhoneCall, HelpCircle, ShieldCheck, ChevronDown, Phone, MapPin, Building2, Printer, Mail, Send, ExternalLink, UserCircle } from 'lucide-react';
 import { ALL_STATION_CONTACTS } from '../../utils/constants';
 import { getCallablePhoneNumber } from '../../utils/phone';
 
@@ -201,6 +201,30 @@ export const AboutView: React.FC<AboutViewProps> = ({ t }) => {
           >
             <ExternalLink className="w-4 h-4" />
             <span>Share Feedback</span>
+          </a>
+        </div>
+      </div>
+
+      {/* ── Developer Contact ── */}
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-6 sm:p-8 shadow-sm space-y-5">
+        <div className="flex items-center justify-between gap-4 flex-wrap">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-sky-100 dark:bg-sky-950 text-sky-600 dark:text-sky-400 flex items-center justify-center shrink-0">
+              <UserCircle className="w-5 h-5" />
+            </div>
+            <div>
+              <h3 className="text-lg font-black text-slate-900 dark:text-white">Developer & Contact</h3>
+              <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 font-medium">
+                SRUJAN PANCHAJANYA S S
+              </p>
+            </div>
+          </div>
+          <a
+            href="mailto:SRUJANPANCHAJANYAS@GMAIL.COM"
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-sky-600 hover:bg-sky-700 text-white text-sm font-black transition-all shadow-md hover:shadow-lg"
+          >
+            <Mail className="w-4 h-4" />
+            <span>Email Developer</span>
           </a>
         </div>
       </div>

@@ -76,3 +76,7 @@ npm run preview
 
 ## Acknowledgments
 * Data referenced from the official [KSRTC Karnataka Website](https://ksrtc.karnataka.gov.in/).
+
+## Author / Contact
+* **SRUJAN PANCHAJNAYA S S**
+* **Email:** [SRUJANPANCHAJANYAS@GMAIL.COM](mailto:SRUJANPANCHAJANYAS@GMAIL.COM)
