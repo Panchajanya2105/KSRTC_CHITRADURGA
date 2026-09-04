@@ -1,0 +1,1770 @@
+{
+  "key": "Bharamasagara",
+  "station": "Bharamasagara Bus Stand",
+  "address": "Bharamasagara, Chitradurga District",
+  "contact": "",
+  "division": "Chitradurga Division",
+  "totalBuses": 220,
+  "buses": [
+    {
+      "id": 1,
+      "from": "Bharamasagara",
+      "destination": "Asagodu",
+      "serviceClass": "Ordinary",
+      "via": "Bilachodu",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 2,
+      "from": "Bharamasagara",
+      "destination": "Asagodu",
+      "serviceClass": "Ordinary",
+      "via": "Bilachodu",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 3,
+      "from": "Bharamasagara",
+      "destination": "Asagodu",
+      "serviceClass": "Ordinary",
+      "via": "Bilachodu",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 4,
+      "from": "Bharamasagara",
+      "destination": "Asagodu",
+      "serviceClass": "Ordinary",
+      "via": "Bilachodu",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 5,
+      "from": "Bharamasagara",
+      "destination": "Asagodu",
+      "serviceClass": "Ordinary",
+      "via": "Bilachodu",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 6,
+      "from": "Bharamasagara",
+      "destination": "Asagodu",
+      "serviceClass": "Ordinary",
+      "via": "Bilachodu",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 7,
+      "from": "Bharamasagara",
+      "destination": "Bagepalli",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 8,
+      "from": "Bharamasagara",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 9,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 10,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 11,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 12,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 13,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 14,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "09:10"
+    },
+    {
+      "id": 15,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 16,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 17,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 18,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 19,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 20,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "10:10"
+    },
+    {
+      "id": 21,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 22,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 23,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 24,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 25,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 26,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 27,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 28,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 29,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 30,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 31,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 32,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 33,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 34,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 35,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 36,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 37,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 38,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 39,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 40,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 41,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 42,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 43,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 44,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 45,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 46,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 47,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 48,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 49,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 50,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 51,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 52,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 53,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 54,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 55,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 56,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 57,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 58,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 59,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 60,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 61,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 62,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 63,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 64,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 65,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 66,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 67,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 68,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 69,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 70,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 71,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 72,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 73,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 74,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 75,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 76,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 77,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 78,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 79,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 80,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 81,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 82,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 83,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 84,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 85,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 86,
+      "from": "Bharamasagara",
+      "destination": "Bangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 87,
+      "from": "Bharamasagara",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 88,
+      "from": "Bharamasagara",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 89,
+      "from": "Bharamasagara",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 90,
+      "from": "Bharamasagara",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 91,
+      "from": "Bharamasagara",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 92,
+      "from": "Bharamasagara",
+      "destination": "Betageri",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 93,
+      "from": "Bharamasagara",
+      "destination": "Byadagi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 94,
+      "from": "Bharamasagara",
+      "destination": "Byadagi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 95,
+      "from": "Bharamasagara",
+      "destination": "Bylahongala",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 96,
+      "from": "Bharamasagara",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 97,
+      "from": "Bharamasagara",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 98,
+      "from": "Bharamasagara",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 99,
+      "from": "Bharamasagara",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 100,
+      "from": "Bharamasagara",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 101,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 102,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 103,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 104,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 105,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 106,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 107,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 108,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sulthanipura",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 109,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 110,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 111,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 112,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 113,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Sirigere-x",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 114,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 115,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 116,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 117,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 118,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 119,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 120,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 121,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 122,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 123,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sulthanipura",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 124,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 125,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 126,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sulthanipura",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 127,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 128,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 129,
+      "from": "Bharamasagara",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 130,
+      "from": "Bharamasagara",
+      "destination": "Dandeli",
+      "serviceClass": "Express",
+      "via": "Sirigere-x",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 131,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 132,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 133,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Halekallu",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 134,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 135,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 136,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 137,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 138,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 139,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Halekallu",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 140,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 141,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 142,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 143,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Anagodu",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 144,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 145,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 146,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 147,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Anagodu",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 148,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Anagodu",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 149,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 150,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 151,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 152,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Anagodu",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 153,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Halekallu",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 154,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Anagodu",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 155,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Anagodu",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 156,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 157,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 158,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Sirigere-x",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 159,
+      "from": "Bharamasagara",
+      "destination": "Davangere",
+      "serviceClass": "Ordinary",
+      "via": "Anagodu",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 160,
+      "from": "Bharamasagara",
+      "destination": "Gadaga",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 161,
+      "from": "Bharamasagara",
+      "destination": "H D Kote",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 162,
+      "from": "Bharamasagara",
+      "destination": "Halekallu",
+      "serviceClass": "Ordinary",
+      "via": "Anaji",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 163,
+      "from": "Bharamasagara",
+      "destination": "Haliyala",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 164,
+      "from": "Bharamasagara",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 165,
+      "from": "Bharamasagara",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 166,
+      "from": "Bharamasagara",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 167,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 168,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 169,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 170,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 171,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 172,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 173,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 174,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 175,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 176,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 177,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 178,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 179,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 180,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 181,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 182,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 183,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 184,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 185,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 186,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 187,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 188,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 189,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 190,
+      "from": "Bharamasagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 191,
+      "from": "Bharamasagara",
+      "destination": "Jagaluru",
+      "serviceClass": "Ordinary",
+      "via": "Bidarakere",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 192,
+      "from": "Bharamasagara",
+      "destination": "Kalaghatagi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 193,
+      "from": "Bharamasagara",
+      "destination": "Karawara",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 194,
+      "from": "Bharamasagara",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 195,
+      "from": "Bharamasagara",
+      "destination": "Laxmeshwara",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 196,
+      "from": "Bharamasagara",
+      "destination": "Laxmeshwara",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 197,
+      "from": "Bharamasagara",
+      "destination": "Laxmeshwara",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 198,
+      "from": "Bharamasagara",
+      "destination": "Laxmeshwara",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 199,
+      "from": "Bharamasagara",
+      "destination": "Mundaragi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 200,
+      "from": "Bharamasagara",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 201,
+      "from": "Bharamasagara",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 202,
+      "from": "Bharamasagara",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 203,
+      "from": "Bharamasagara",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 204,
+      "from": "Bharamasagara",
+      "destination": "Ramadurga",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 205,
+      "from": "Bharamasagara",
+      "destination": "Ramadurga",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 206,
+      "from": "Bharamasagara",
+      "destination": "Rona",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 207,
+      "from": "Bharamasagara",
+      "destination": "Savadatti",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 208,
+      "from": "Bharamasagara",
+      "destination": "Savadatti",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 209,
+      "from": "Bharamasagara",
+      "destination": "Savanuru",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 210,
+      "from": "Bharamasagara",
+      "destination": "Savanuru",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 211,
+      "from": "Bharamasagara",
+      "destination": "Shidlaghatta",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 212,
+      "from": "Bharamasagara",
+      "destination": "Shirhatti",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 213,
+      "from": "Bharamasagara",
+      "destination": "Sirasangi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 214,
+      "from": "Bharamasagara",
+      "destination": "Sirigere",
+      "serviceClass": "Express",
+      "via": "Sirigere-x",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 215,
+      "from": "Bharamasagara",
+      "destination": "Sirsi",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 216,
+      "from": "Bharamasagara",
+      "destination": "Soraba",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 217,
+      "from": "Bharamasagara",
+      "destination": "Srinivasapura",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 218,
+      "from": "Bharamasagara",
+      "destination": "Tirupathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 219,
+      "from": "Bharamasagara",
+      "destination": "Yadiyuru",
+      "serviceClass": "Express",
+      "via": "Chitradurga, Imangala, Hiriyuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 220,
+      "from": "Bharamasagara",
+      "destination": "Yallapura",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "14:00"
+    }
+  ]
+}

@@ -1,0 +1,2170 @@
+{
+  "key": "Hosadurga",
+  "station": "Hosadurga Bus Stand",
+  "address": "Hosadurga, Chitradurga District",
+  "contact": "7760998025",
+  "division": "Chitradurga Division",
+  "totalBuses": 270,
+  "buses": [
+    {
+      "id": 1,
+      "from": "Hosadurga",
+      "destination": "Ilakal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "00:05"
+    },
+    {
+      "id": 2,
+      "from": "Hosadurga",
+      "destination": "Kukke Subramanya",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 3,
+      "from": "Hosadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 4,
+      "from": "Hosadurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 5,
+      "from": "Hosadurga",
+      "destination": "Kukke Subramanya",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "00:45"
+    },
+    {
+      "id": 6,
+      "from": "Hosadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 7,
+      "from": "Hosadurga",
+      "destination": "Hosapet",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 8,
+      "from": "Hosadurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 9,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 10,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "03:30"
+    },
+    {
+      "id": 11,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 12,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "04:20"
+    },
+    {
+      "id": 13,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "04:40"
+    },
+    {
+      "id": 14,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "05:00"
+    },
+    {
+      "id": 15,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "05:00"
+    },
+    {
+      "id": 16,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "05:15"
+    },
+    {
+      "id": 17,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "05:15"
+    },
+    {
+      "id": 18,
+      "from": "Hosadurga",
+      "destination": "Mangaluru",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "05:15"
+    },
+    {
+      "id": 19,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "05:30"
+    },
+    {
+      "id": 20,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "05:45"
+    },
+    {
+      "id": 21,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "05:45"
+    },
+    {
+      "id": 22,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 23,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Mathodu",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 24,
+      "from": "Hosadurga",
+      "destination": "Arasikere",
+      "serviceClass": "Express",
+      "via": "Banavara",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 25,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 26,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 27,
+      "from": "Hosadurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Tarikere, Bhadravathi",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 28,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 29,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 30,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 31,
+      "from": "Hosadurga",
+      "destination": "Mathodu",
+      "serviceClass": "Ordinary",
+      "via": "Kanchipura",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 32,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 33,
+      "from": "Hosadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 34,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 35,
+      "from": "Hosadurga",
+      "destination": "Panchanahalli",
+      "serviceClass": "Ordinary",
+      "via": "Garaga",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 36,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Duggavara",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 37,
+      "from": "Hosadurga",
+      "destination": "Huliyaru",
+      "serviceClass": "Ordinary",
+      "via": "Kanchipura",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 38,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "06:50"
+    },
+    {
+      "id": 39,
+      "from": "Hosadurga",
+      "destination": "Chikkamagaluru",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 40,
+      "from": "Hosadurga",
+      "destination": "Attimagge",
+      "serviceClass": "Ordinary",
+      "via": "Madadakere",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 41,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 42,
+      "from": "Hosadurga",
+      "destination": "Srirampura",
+      "serviceClass": "Ordinary",
+      "via": "D.T Vatty",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 43,
+      "from": "Hosadurga",
+      "destination": "Alaghatta",
+      "serviceClass": "Ordinary",
+      "via": "0",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 44,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "07:10"
+    },
+    {
+      "id": 45,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 46,
+      "from": "Hosadurga",
+      "destination": "Bevinahalli",
+      "serviceClass": "Ordinary",
+      "via": "Bevinahalli",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 47,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 48,
+      "from": "Hosadurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Tarikere, Bhadravathi",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 49,
+      "from": "Hosadurga",
+      "destination": "Huliyaru",
+      "serviceClass": "Ordinary",
+      "via": "Kanchipura",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 50,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 51,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Srirampura",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 52,
+      "from": "Hosadurga",
+      "destination": "Gavirangapura",
+      "serviceClass": "Ordinary",
+      "via": "Nayigere",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 53,
+      "from": "Hosadurga",
+      "destination": "G.N Kere",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 54,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 55,
+      "from": "Hosadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Arasikere",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 56,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 57,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 58,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 59,
+      "from": "Hosadurga",
+      "destination": "Madadakere",
+      "serviceClass": "Ordinary",
+      "via": "Attimagge",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 60,
+      "from": "Hosadurga",
+      "destination": "Arehalli",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 61,
+      "from": "Hosadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "07:50"
+    },
+    {
+      "id": 62,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Duggavara",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 63,
+      "from": "Hosadurga",
+      "destination": "Chowlahiriyur",
+      "serviceClass": "Ordinary",
+      "via": "0",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 64,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "08:10"
+    },
+    {
+      "id": 65,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 66,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 67,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 68,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 69,
+      "from": "Hosadurga",
+      "destination": "Duggavara",
+      "serviceClass": "Ordinary",
+      "via": "Duggavara",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 70,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 71,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 72,
+      "from": "Hosadurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Tarikere, Bhadravathi",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 73,
+      "from": "Hosadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Turuvekere",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 74,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 75,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Janakal",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 76,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "08:50"
+    },
+    {
+      "id": 77,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 78,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 79,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 80,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 81,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 82,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "09:10"
+    },
+    {
+      "id": 83,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 84,
+      "from": "Hosadurga",
+      "destination": "Dharvada",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 85,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Duggavara",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 86,
+      "from": "Hosadurga",
+      "destination": "Srirampura",
+      "serviceClass": "Ordinary",
+      "via": "D.T Vatty",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 87,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "09:20"
+    },
+    {
+      "id": 88,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 89,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "H.D Pura",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 90,
+      "from": "Hosadurga",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Holalkere, Davangere",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 91,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 92,
+      "from": "Hosadurga",
+      "destination": "Chikkamagaluru",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 93,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 94,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 95,
+      "from": "Hosadurga",
+      "destination": "Savadatti",
+      "serviceClass": "Express",
+      "via": "Holalkere, Davangere",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 96,
+      "from": "Hosadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Turuvekere",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 97,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 98,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "H.D Pura",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 99,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere, Davangere",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 100,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 101,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 102,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 103,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 104,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 105,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 106,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 107,
+      "from": "Hosadurga",
+      "destination": "Hiriyuru",
+      "serviceClass": "Ordinary",
+      "via": "V V Pura",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 108,
+      "from": "Hosadurga",
+      "destination": "Kukke Subramanya",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 109,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 110,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 111,
+      "from": "Hosadurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Tarikere, Bhadravathi",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 112,
+      "from": "Hosadurga",
+      "destination": "Kadur",
+      "serviceClass": "Ordinary",
+      "via": "Yagati",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 113,
+      "from": "Hosadurga",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 114,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "10:50"
+    },
+    {
+      "id": 115,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 116,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 117,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 118,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 119,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 120,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 121,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 122,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 123,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "11:10"
+    },
+    {
+      "id": 124,
+      "from": "Hosadurga",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Holalkere",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 125,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 126,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "11:20"
+    },
+    {
+      "id": 127,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 128,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 129,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 130,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 131,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 132,
+      "from": "Hosadurga",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Davangere",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 133,
+      "from": "Hosadurga",
+      "destination": "Chikkamagaluru",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 134,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 135,
+      "from": "Hosadurga",
+      "destination": "Chikkabyaladakere",
+      "serviceClass": "Ordinary",
+      "via": "Kanchipura",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 136,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 137,
+      "from": "Hosadurga",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 138,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 139,
+      "from": "Hosadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Turuvekere",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 140,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 141,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Duggavara",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 142,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 143,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 144,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 145,
+      "from": "Hosadurga",
+      "destination": "G.N Kere",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 146,
+      "from": "Hosadurga",
+      "destination": "Srirampura",
+      "serviceClass": "Ordinary",
+      "via": "D.T Vatty",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 147,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:20"
+    },
+    {
+      "id": 148,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 149,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 150,
+      "from": "Hosadurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Tarikere, Bhadravathi",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 151,
+      "from": "Hosadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Tiptur",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 152,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 153,
+      "from": "Hosadurga",
+      "destination": "Belur",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 154,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:40"
+    },
+    {
+      "id": 155,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 156,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 157,
+      "from": "Hosadurga",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Holalkere, Davangere",
+      "departureTime": "12:50"
+    },
+    {
+      "id": 158,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "12:50"
+    },
+    {
+      "id": 159,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 160,
+      "from": "Hosadurga",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Holalkere, Davangere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 161,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 162,
+      "from": "Hosadurga",
+      "destination": "Chikkamagaluru",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 163,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 164,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 165,
+      "from": "Hosadurga",
+      "destination": "Huliyaru",
+      "serviceClass": "Ordinary",
+      "via": "Kanchipura",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 166,
+      "from": "Hosadurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Hosadurga",
+      "departureTime": "13:20"
+    },
+    {
+      "id": 167,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 168,
+      "from": "Hosadurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Tarikere, Bhadravathi",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 169,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 170,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 171,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 172,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 173,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "13:40"
+    },
+    {
+      "id": 174,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "13:50"
+    },
+    {
+      "id": 175,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 176,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 177,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 178,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 179,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 180,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 181,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:10"
+    },
+    {
+      "id": 182,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 183,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 184,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 185,
+      "from": "Hosadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Turuvekere",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 186,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 187,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:20"
+    },
+    {
+      "id": 188,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 189,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 190,
+      "from": "Hosadurga",
+      "destination": "Chitrahalli",
+      "serviceClass": "Ordinary",
+      "via": "H.D Pura",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 191,
+      "from": "Hosadurga",
+      "destination": "Konanur",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 192,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 193,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 194,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 195,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 196,
+      "from": "Hosadurga",
+      "destination": "Huliyaru",
+      "serviceClass": "Ordinary",
+      "via": "Kanchipura",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 197,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Duggavara",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 198,
+      "from": "Hosadurga",
+      "destination": "Tirupathi",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 199,
+      "from": "Hosadurga",
+      "destination": "Ukkadagatri",
+      "serviceClass": "Express",
+      "via": "Holalkere, Davangere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 200,
+      "from": "Hosadurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Tarikere, Bhadravathi",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 201,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 202,
+      "from": "Hosadurga",
+      "destination": "Srirampura",
+      "serviceClass": "Ordinary",
+      "via": "D.T Vatty",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 203,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere, Davangere",
+      "departureTime": "15:10"
+    },
+    {
+      "id": 204,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 205,
+      "from": "Hosadurga",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 206,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 207,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 208,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 209,
+      "from": "Hosadurga",
+      "destination": "Belagur",
+      "serviceClass": "Ordinary",
+      "via": "Alaghatta",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 210,
+      "from": "Hosadurga",
+      "destination": "Arasikere",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 211,
+      "from": "Hosadurga",
+      "destination": "Sakaleshapura",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 212,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 213,
+      "from": "Hosadurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 214,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 215,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 216,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 217,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Srirampura",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 218,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 219,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 220,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 221,
+      "from": "Hosadurga",
+      "destination": "G.N Kere",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 222,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 223,
+      "from": "Hosadurga",
+      "destination": "Gavirangapura",
+      "serviceClass": "Ordinary",
+      "via": "Nayigere",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 224,
+      "from": "Hosadurga",
+      "destination": "Bevinahalli",
+      "serviceClass": "Ordinary",
+      "via": "Bevinahalli",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 225,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 226,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 227,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 228,
+      "from": "Hosadurga",
+      "destination": "Madadakere",
+      "serviceClass": "Ordinary",
+      "via": "Attimagge",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 229,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 230,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 231,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Duggavara",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 232,
+      "from": "Hosadurga",
+      "destination": "Kanchipura",
+      "serviceClass": "Ordinary",
+      "via": "Mathodu",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 233,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "17:10"
+    },
+    {
+      "id": 234,
+      "from": "Hosadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 235,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 236,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 237,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "C.N Halli, Hosadurga",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 238,
+      "from": "Hosadurga",
+      "destination": "Tiptur",
+      "serviceClass": "Express",
+      "via": "Handanakere",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 239,
+      "from": "Hosadurga",
+      "destination": "Arasikere",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 240,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 241,
+      "from": "Hosadurga",
+      "destination": "Chowlahiriyur",
+      "serviceClass": "Ordinary",
+      "via": "",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 242,
+      "from": "Hosadurga",
+      "destination": "Kalburgi",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "17:35"
+    },
+    {
+      "id": 243,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 244,
+      "from": "Hosadurga",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 245,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 246,
+      "from": "Hosadurga",
+      "destination": "Arasikere",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 247,
+      "from": "Hosadurga",
+      "destination": "Shivani",
+      "serviceClass": "Express",
+      "via": "Ajjampura",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 248,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 249,
+      "from": "Hosadurga",
+      "destination": "Yagati",
+      "serviceClass": "Ordinary",
+      "via": "Chowlahiriyur",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 250,
+      "from": "Hosadurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Belagur",
+      "departureTime": "18:20"
+    },
+    {
+      "id": 251,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 252,
+      "from": "Hosadurga",
+      "destination": "Channagiri",
+      "serviceClass": "Express",
+      "via": "Ramagiri",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 253,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 254,
+      "from": "Hosadurga",
+      "destination": "Gulbarga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 255,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 256,
+      "from": "Hosadurga",
+      "destination": "Sanehalli",
+      "serviceClass": "Express",
+      "via": "0",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 257,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Hosadurga",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 258,
+      "from": "Hosadurga",
+      "destination": "Huliyaru",
+      "serviceClass": "Ordinary",
+      "via": "Kanchipura",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 259,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 260,
+      "from": "Hosadurga",
+      "destination": "Channagiri",
+      "serviceClass": "Express",
+      "via": "Ramagiri",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 261,
+      "from": "Hosadurga",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 262,
+      "from": "Hosadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "21:15"
+    },
+    {
+      "id": 263,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "22:00"
+    },
+    {
+      "id": 264,
+      "from": "Hosadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "22:00"
+    },
+    {
+      "id": 265,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "22:30"
+    },
+    {
+      "id": 266,
+      "from": "Hosadurga",
+      "destination": "Mangaluru",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "22:30"
+    },
+    {
+      "id": 267,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "23:15"
+    },
+    {
+      "id": 268,
+      "from": "Hosadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Kadur",
+      "departureTime": "23:15"
+    },
+    {
+      "id": 269,
+      "from": "Hosadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "C.N Halli",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 270,
+      "from": "Hosadurga",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "23:30"
+    }
+  ]
+}

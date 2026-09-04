@@ -1,0 +1,3690 @@
+{
+  "key": "Chitradurga",
+  "station": "Chitradurga Bus Stand",
+  "address": "NH-48, Chitradurga, Karnataka 577501",
+  "contact": "08194-222431",
+  "division": "Chitradurga Division",
+  "totalBuses": 460,
+  "buses": [
+    {
+      "id": 1,
+      "from": "Chitradurga",
+      "destination": "Afjalpura",
+      "serviceClass": "Express",
+      "via": "Muddebihal, Sindagi",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 2,
+      "from": "Chitradurga",
+      "destination": "Anantpur",
+      "serviceClass": "Express",
+      "via": "Challakere, Kalyandurga",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 3,
+      "from": "Bengaluru",
+      "destination": "Ankola",
+      "serviceClass": "Express",
+      "via": "Sirsi, Gokarna,",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 4,
+      "from": "Bengaluru",
+      "destination": "Badami",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete, Hungund",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 5,
+      "from": "Mangaluru",
+      "destination": "Ballari",
+      "serviceClass": "Rajahamsa",
+      "via": "Challakere",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 6,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "05:30"
+    },
+    {
+      "id": 7,
+      "from": "Shivamogga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 8,
+      "from": "Davangere",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 9,
+      "from": "Hassan",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Arasikere, Hosadurga, Rampura",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 10,
+      "from": "Shivamogga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Channagiri",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 11,
+      "from": "Mangaluru",
+      "destination": "Ballari",
+      "serviceClass": "Rajahamsa",
+      "via": "Challakere, Hanagal Cross",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 12,
+      "from": "Mangaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere, Hanagal Cross",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 13,
+      "from": "Bengaluru",
+      "destination": "Basavakalyana",
+      "serviceClass": "Express",
+      "via": "Hosapete",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 14,
+      "from": "Bengaluru",
+      "destination": "Basavakalyana",
+      "serviceClass": "Express",
+      "via": "Sira, Hiriyur, Hosapete, Kalaburagi",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 15,
+      "from": "Bengaluru",
+      "destination": "Basavakalyana",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 16,
+      "from": "Bengaluru",
+      "destination": "Belagavi",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere, Haveri, Hubballi",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 17,
+      "from": "Bengaluru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri, Hubballi",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 18,
+      "from": "Bengaluru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 19,
+      "from": "Bengaluru",
+      "destination": "Belagavi",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere, Haveri, Hubballi",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 20,
+      "from": "Bengaluru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 21,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "00:00"
+    },
+    {
+      "id": 22,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 23,
+      "from": "Belagavi",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 24,
+      "from": "Narasapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 25,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 26,
+      "from": "Bengaluru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kottur, Jagalur, Hiriyur, Sira, Tumakuru",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 27,
+      "from": "Kollapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Belagavi, Hubballi, Tumakuru",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 28,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "00:45"
+    },
+    {
+      "id": 29,
+      "from": "Hirekerur",
+      "destination": "Bengaluru",
+      "serviceClass": "Non AC Sleeper",
+      "via": "Hiriyur, Sira",
+      "departureTime": "00:45"
+    },
+    {
+      "id": 30,
+      "from": "Donimalai",
+      "destination": "Bengaluru",
+      "serviceClass": "Non AC Sleeper",
+      "via": "Hiriyur, Sira",
+      "departureTime": "00:45"
+    },
+    {
+      "id": 31,
+      "from": "Rona",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 32,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 33,
+      "from": "Hangal",
+      "destination": "Bengaluru",
+      "serviceClass": "Non AC Sleeper",
+      "via": "Hiriyur, Sira",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 34,
+      "from": "Kusthagi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur,",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 35,
+      "from": "Ankola",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 36,
+      "from": "Harappanahalli",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 37,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "01:20"
+    },
+    {
+      "id": 38,
+      "from": "Betageri",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 39,
+      "from": "Kusthagi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 40,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 41,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 42,
+      "from": "Kusthagi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 43,
+      "from": "Basavakalyana",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kalaburagi, Hosapete, Kudligi, Hiriyur, Sira",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 44,
+      "from": "Koppal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "01:40"
+    },
+    {
+      "id": 45,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "01:40"
+    },
+    {
+      "id": 46,
+      "from": "Gajendragad",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "02:05"
+    },
+    {
+      "id": 47,
+      "from": "Gadag",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 48,
+      "from": "Yelburga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 49,
+      "from": "Kusthagi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 50,
+      "from": "Ranebennur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 51,
+      "from": "Gadag",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 52,
+      "from": "Kusthagi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 53,
+      "from": "Ilkal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "02:35"
+    },
+    {
+      "id": 54,
+      "from": "Rona",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "02:40"
+    },
+    {
+      "id": 55,
+      "from": "Rona",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "02:45"
+    },
+    {
+      "id": 56,
+      "from": "Yelburga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "02:45"
+    },
+    {
+      "id": 57,
+      "from": "Chikkodi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "02:50"
+    },
+    {
+      "id": 58,
+      "from": "Jamakhandi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 59,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 60,
+      "from": "Bailhongala",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "03:05"
+    },
+    {
+      "id": 61,
+      "from": "Basavanbagevadi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hunagunda, Ilakal, Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "03:20"
+    },
+    {
+      "id": 62,
+      "from": "Dandeli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "03:30"
+    },
+    {
+      "id": 63,
+      "from": "Indi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "04:30"
+    },
+    {
+      "id": 64,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "05:00"
+    },
+    {
+      "id": 65,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "05:15"
+    },
+    {
+      "id": 66,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "05:30"
+    },
+    {
+      "id": 67,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "05:45"
+    },
+    {
+      "id": 68,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 69,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 70,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "06:10"
+    },
+    {
+      "id": 71,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 72,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 73,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 74,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 75,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 76,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 77,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "07:10"
+    },
+    {
+      "id": 78,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 79,
+      "from": "Kottur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "07:20"
+    },
+    {
+      "id": 80,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 81,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 82,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "07:50"
+    },
+    {
+      "id": 83,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 84,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 85,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "08:20"
+    },
+    {
+      "id": 86,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 87,
+      "from": "Harappanahalli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Harihar, Davangere",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 88,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 89,
+      "from": "Hosapete",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 90,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 91,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 92,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 93,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 94,
+      "from": "Harappanahalli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Harihar, Davangere, Bengaluru",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 95,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 96,
+      "from": "Hosapete",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 97,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 98,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 99,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 100,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 101,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 102,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 103,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 104,
+      "from": "Hosapete",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 105,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 106,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 107,
+      "from": "Hosapete",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:35"
+    },
+    {
+      "id": 108,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 109,
+      "from": "Laxmeshwar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 110,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:50"
+    },
+    {
+      "id": 111,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "10:55"
+    },
+    {
+      "id": 112,
+      "from": "Hosapete",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 113,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 114,
+      "from": "Chitradurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 115,
+      "from": "Sandur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "11:25"
+    },
+    {
+      "id": 116,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 117,
+      "from": "Harappanahalli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Harihar, Davangere, Bengaluru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 118,
+      "from": "Koppal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 119,
+      "from": "Haveri",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 120,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "11:40"
+    },
+    {
+      "id": 121,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 122,
+      "from": "Gadag",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 123,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 124,
+      "from": "Byadgi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 125,
+      "from": "Harappanahalli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Harihar, Davangere",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 126,
+      "from": "Hangal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "12:40"
+    },
+    {
+      "id": 127,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 128,
+      "from": "Yelburga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 129,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 130,
+      "from": "Ranebennur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "12:50"
+    },
+    {
+      "id": 131,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "12:55"
+    },
+    {
+      "id": 132,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 133,
+      "from": "Belagavi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 134,
+      "from": "Koppal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 135,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 136,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "13:05"
+    },
+    {
+      "id": 137,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:10"
+    },
+    {
+      "id": 138,
+      "from": "Kudligi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 139,
+      "from": "Sirsi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 140,
+      "from": "Ranebennur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:20"
+    },
+    {
+      "id": 141,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:20"
+    },
+    {
+      "id": 142,
+      "from": "Ranebennur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 143,
+      "from": "Ranebennur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 144,
+      "from": "Ranebennur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:50"
+    },
+    {
+      "id": 145,
+      "from": "Hirekerur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "13:55"
+    },
+    {
+      "id": 146,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 147,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 148,
+      "from": "Kudligi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "14:10"
+    },
+    {
+      "id": 149,
+      "from": "Hangal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 150,
+      "from": "Koppal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "14:25"
+    },
+    {
+      "id": 151,
+      "from": "Kusthagi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 152,
+      "from": "Shivamogga",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 153,
+      "from": "Belagavi",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 154,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 155,
+      "from": "Kudligi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 156,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 157,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 158,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 159,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 160,
+      "from": "Ramadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "16:05"
+    },
+    {
+      "id": 161,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 162,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 163,
+      "from": "Dandeli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 164,
+      "from": "Badami",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "16:25"
+    },
+    {
+      "id": 165,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 166,
+      "from": "Kudligi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "16:50"
+    },
+    {
+      "id": 167,
+      "from": "Hangal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "16:50"
+    },
+    {
+      "id": 168,
+      "from": "Rona",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "16:55"
+    },
+    {
+      "id": 169,
+      "from": "Shivamogga",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 170,
+      "from": "Ramadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 171,
+      "from": "Koppal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 172,
+      "from": "Hubballi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 173,
+      "from": "Nargund",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "17:25"
+    },
+    {
+      "id": 174,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 175,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 176,
+      "from": "Yelburga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "17:35"
+    },
+    {
+      "id": 177,
+      "from": "Byadgi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 178,
+      "from": "Rona",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 179,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Vaibhava",
+      "via": "Hiriyur, Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 180,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 181,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 182,
+      "from": "Yelburga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hosapete, Kudligi, Hiriyur, Sira, Tumakuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 183,
+      "from": "Rona",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 184,
+      "from": "Ranebennur",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "18:05"
+    },
+    {
+      "id": 185,
+      "from": "Nargund",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "18:10"
+    },
+    {
+      "id": 186,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 187,
+      "from": "Rona",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 188,
+      "from": "Nargund",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "18:40"
+    },
+    {
+      "id": 189,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 190,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 191,
+      "from": "Nargund",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 192,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat Club Class",
+      "via": "Hiriyur, Sira",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 193,
+      "from": "Nargund",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 194,
+      "from": "Hangal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 195,
+      "from": "Haveri",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 196,
+      "from": "Shivamogga",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "19:45"
+    },
+    {
+      "id": 197,
+      "from": "Haveri",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "19:45"
+    },
+    {
+      "id": 198,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Airavat",
+      "via": "Hiriyur, Sira",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 199,
+      "from": "Byadgi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 200,
+      "from": "Laxmeshwar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 201,
+      "from": "Laxmeshwar",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 202,
+      "from": "Nargund",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "21:15"
+    },
+    {
+      "id": 203,
+      "from": "Belagavi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hubballi, Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "22:15"
+    },
+    {
+      "id": 204,
+      "from": "Harihar",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "23:15"
+    },
+    {
+      "id": 205,
+      "from": "Karwar",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "23:15"
+    },
+    {
+      "id": 206,
+      "from": "Byadgi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "23:45"
+    },
+    {
+      "id": 207,
+      "from": "Hangal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Ranebennur, Harihar, Davangere, Hiriyur, Sira, Tumakuru",
+      "departureTime": "23:50"
+    },
+    {
+      "id": 208,
+      "from": "Mundargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira",
+      "departureTime": "23:55"
+    },
+    {
+      "id": 209,
+      "from": "Davangere",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyur, Sira",
+      "departureTime": "24:00"
+    },
+    {
+      "id": 210,
+      "from": "Bengaluru",
+      "destination": "Betageri",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 211,
+      "from": "Bengaluru",
+      "destination": "Byadgi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 212,
+      "from": "Bengaluru",
+      "destination": "Byadgi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Ranebennur",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 213,
+      "from": "Bengaluru",
+      "destination": "Byadgi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 214,
+      "from": "Bengaluru",
+      "destination": "Byadgi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 215,
+      "from": "Manipal",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 216,
+      "from": "Dharmasthala",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 217,
+      "from": "Manipal",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Kundapura, Thirthahalli, Shivamogga, Channagiri",
+      "departureTime": "03:45"
+    },
+    {
+      "id": 218,
+      "from": "Dharmasthala",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 219,
+      "from": "Hubballi",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Haveri, Ranebennur, Davangere, Hiriyur, Tumakuru",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 220,
+      "from": "Davangere",
+      "destination": "Coimbatore",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Tumakuru, Kunigal, Mysuru",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 221,
+      "from": "Tirupati",
+      "destination": "Dandeli",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere, Harihar",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 222,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 223,
+      "from": "Ballari",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 224,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 225,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 226,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 227,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 228,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 229,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 230,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 231,
+      "from": "Ballari",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 232,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 233,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 234,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 235,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 236,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "18:45"
+    },
+    {
+      "id": 237,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 238,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 239,
+      "from": "Mysuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "21:30"
+    },
+    {
+      "id": 240,
+      "from": "Tirupati",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "02:45"
+    },
+    {
+      "id": 241,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 242,
+      "from": "Mysuru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Chitradurga",
+      "departureTime": "03:30"
+    },
+    {
+      "id": 243,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "04:30"
+    },
+    {
+      "id": 244,
+      "from": "Coimbatore",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 245,
+      "from": "Chitradurga",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "",
+      "departureTime": "08:20"
+    },
+    {
+      "id": 246,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 247,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 248,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 249,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Rajahamsa",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 250,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 251,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 252,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 253,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 254,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 255,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 256,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 257,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "16:40"
+    },
+    {
+      "id": 258,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "17:35"
+    },
+    {
+      "id": 259,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 260,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 261,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 262,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 263,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 264,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 265,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 266,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat Club Class",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "21:45"
+    },
+    {
+      "id": 267,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Vaibhava",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "22:15"
+    },
+    {
+      "id": 268,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "23:05"
+    },
+    {
+      "id": 269,
+      "from": "Bengaluru",
+      "destination": "Davangere",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Sira, Hiriyur",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 270,
+      "from": "Chitradurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "05:00"
+    },
+    {
+      "id": 271,
+      "from": "Chitradurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "07:50"
+    },
+    {
+      "id": 272,
+      "from": "Challakere",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 273,
+      "from": "Kalyanadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 274,
+      "from": "Chitradurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "21:45"
+    },
+    {
+      "id": 275,
+      "from": "Hosapete",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "22:30"
+    },
+    {
+      "id": 276,
+      "from": "Chitradurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "1015:00"
+    },
+    {
+      "id": 277,
+      "from": "Tirupati",
+      "destination": "Dharwad",
+      "serviceClass": "Express",
+      "via": "Davangere, Harihar, Haveri",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 278,
+      "from": "Bengaluru",
+      "destination": "Dharwad",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "23:45"
+    },
+    {
+      "id": 279,
+      "from": "Kolar",
+      "destination": "Donimalai",
+      "serviceClass": "Express",
+      "via": "Sandur",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 280,
+      "from": "Bengaluru",
+      "destination": "Donimalai",
+      "serviceClass": "Non AC Sleeper",
+      "via": "Sandur",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 281,
+      "from": "Bengaluru",
+      "destination": "Gadag",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere, Harihar, Haveri",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 282,
+      "from": "Bengaluru",
+      "destination": "Gadag",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 283,
+      "from": "Bengaluru",
+      "destination": "Gajendragad",
+      "serviceClass": "Express",
+      "via": "Hosapete",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 284,
+      "from": "Davangere",
+      "destination": "H D Kote",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Huliyar, Nagamangala",
+      "departureTime": "745:00"
+    },
+    {
+      "id": 285,
+      "from": "Bengaluru",
+      "destination": "Hadagali",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar",
+      "departureTime": "315:00"
+    },
+    {
+      "id": 286,
+      "from": "Hagaribommanahalli",
+      "destination": "Hagaribommanahalli",
+      "serviceClass": "Express",
+      "via": "Jagalur, Kottur",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 287,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Non AC Sleeper",
+      "via": "Davangere, Harihar",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 288,
+      "from": "Tirupati",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Davangere, Harihar",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 289,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "115:00"
+    },
+    {
+      "id": 290,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "230:00"
+    },
+    {
+      "id": 291,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "300:00"
+    },
+    {
+      "id": 292,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Gowribidnur, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "945:00"
+    },
+    {
+      "id": 293,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Gowribidnur, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "1015:00"
+    },
+    {
+      "id": 294,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Gowribidnur, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "1130:00"
+    },
+    {
+      "id": 295,
+      "from": "Chintamani",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Gowribidnur, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "1330:00"
+    },
+    {
+      "id": 296,
+      "from": "Bengaluru",
+      "destination": "Hangal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "1345:00"
+    },
+    {
+      "id": 297,
+      "from": "Bengaluru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere, Harihar",
+      "departureTime": "02:45"
+    },
+    {
+      "id": 298,
+      "from": "Bengaluru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "1830:00"
+    },
+    {
+      "id": 299,
+      "from": "Bengaluru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "1930:00"
+    },
+    {
+      "id": 300,
+      "from": "Bengaluru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "2215:00"
+    },
+    {
+      "id": 301,
+      "from": "Bengaluru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "2230:00"
+    },
+    {
+      "id": 302,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Vaibhava",
+      "via": "Davangere",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 303,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Vaibhava",
+      "via": "Davangere",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 304,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 305,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "04:30"
+    },
+    {
+      "id": 306,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 307,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 308,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 309,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 310,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 311,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Rajahamsa",
+      "via": "Davangere",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 312,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 313,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 314,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 315,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 316,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 317,
+      "from": "Bengaluru",
+      "destination": "Harihar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "22:00"
+    },
+    {
+      "id": 318,
+      "from": "Chitradurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Panchanahalli, Banavara",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 319,
+      "from": "Chitradurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Sira, Tumakuru",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 320,
+      "from": "Chitradurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Banavara, Arasikere",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 321,
+      "from": "Chitradurga",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Banavara, Arasikere",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 322,
+      "from": "Bengaluru",
+      "destination": "Haveri",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 323,
+      "from": "Bengaluru",
+      "destination": "Haveri",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 324,
+      "from": "Bengaluru",
+      "destination": "Haveri",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 325,
+      "from": "Mandya",
+      "destination": "Haveri",
+      "serviceClass": "Express",
+      "via": "Ramnagara, Bengaluru, Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 326,
+      "from": "Bengaluru",
+      "destination": "Hirekerur",
+      "serviceClass": "A/C Sleeper",
+      "via": "Davangere, Harihar",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 327,
+      "from": "Siruguppa",
+      "destination": "Hosadurga",
+      "serviceClass": "Express",
+      "via": "Holalkere",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 328,
+      "from": "Mysuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Kudligi",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 329,
+      "from": "Mysuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Sira, Cheeluru, Nagamangala",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 330,
+      "from": "Dharmasthala",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Kottur, Kudligi",
+      "departureTime": "03:15"
+    },
+    {
+      "id": 331,
+      "from": "Mysuru",
+      "destination": "Hosapete",
+      "serviceClass": "Rajahamsa",
+      "via": "Kudligi",
+      "departureTime": "03:45"
+    },
+    {
+      "id": 332,
+      "from": "Bengaluru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 333,
+      "from": "Bengaluru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 334,
+      "from": "Bengaluru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 335,
+      "from": "Bengaluru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 336,
+      "from": "Bengaluru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Kudligi",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 337,
+      "from": "Chintamani",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Kudligi",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 338,
+      "from": "Chintamani",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Kudligi",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 339,
+      "from": "Bengaluru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi",
+      "departureTime": "18:45"
+    },
+    {
+      "id": 340,
+      "from": "Mysuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Kudligi",
+      "departureTime": "23:40"
+    },
+    {
+      "id": 341,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Davangere, Ranebennur",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 342,
+      "from": "Tirupati",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Chintamani, Madhugiri, Sira, Haveri, Hubballi",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 343,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 344,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 345,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 346,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 347,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 348,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 349,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 350,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 351,
+      "from": "Ramnagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 352,
+      "from": "Ramnagara",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 353,
+      "from": "Channapatna",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 354,
+      "from": "Gowribidnur",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 355,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 356,
+      "from": "Chikkaballapura",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 357,
+      "from": "Gowribidnur",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 358,
+      "from": "Chintamani",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Davangere, Haveri",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 359,
+      "from": "Chintamani",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Haveri",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 360,
+      "from": "Bengaluru",
+      "destination": "Hubballi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 361,
+      "from": "Bengaluru",
+      "destination": "Indi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "03:15"
+    },
+    {
+      "id": 362,
+      "from": "Bengaluru",
+      "destination": "Jamakhandi",
+      "serviceClass": "Express",
+      "via": "Haveri, Hubballi",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 363,
+      "from": "Bengaluru",
+      "destination": "Jamakhandi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "2100:00"
+    },
+    {
+      "id": 364,
+      "from": "Vijayapura",
+      "destination": "K.g.f",
+      "serviceClass": "Vaibhava",
+      "via": "Bengaluru, Kolar",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 365,
+      "from": "Mysuru",
+      "destination": "Kalaburagi",
+      "serviceClass": "Express",
+      "via": "Hosapete, Ranebennur",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 366,
+      "from": "Shivamogga",
+      "destination": "Kalaburagi",
+      "serviceClass": "A/C Sleeper",
+      "via": "Hosapete, Lingsugur",
+      "departureTime": "21:30"
+    },
+    {
+      "id": 367,
+      "from": "Chitradurga",
+      "destination": "Karur",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Tumakuru, Bengaluru, Salem",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 368,
+      "from": "Bengaluru",
+      "destination": "Karwar",
+      "serviceClass": "Rajahamsa",
+      "via": "Haveri, Sirsi",
+      "departureTime": "23:15"
+    },
+    {
+      "id": 369,
+      "from": "Donimalai",
+      "destination": "Kolar",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 370,
+      "from": "Bengaluru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Hosapete",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 371,
+      "from": "Bengaluru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 372,
+      "from": "Bengaluru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 373,
+      "from": "Bengaluru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 374,
+      "from": "Bengaluru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "22:00"
+    },
+    {
+      "id": 375,
+      "from": "Chitradurga",
+      "destination": "Kottur",
+      "serviceClass": "Express",
+      "via": "Bidarakere, Jagaluru, Ujjini",
+      "departureTime": "05:45"
+    },
+    {
+      "id": 376,
+      "from": "Bengaluru",
+      "destination": "Kottur",
+      "serviceClass": "Express",
+      "via": "Bidarakere, Jagaluru, Ujjini",
+      "departureTime": "20:45"
+    },
+    {
+      "id": 377,
+      "from": "Bengaluru",
+      "destination": "Kudligi",
+      "serviceClass": "Express",
+      "via": "Turuvnoor, Mustur",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 378,
+      "from": "Bengaluru",
+      "destination": "Kusthagi",
+      "serviceClass": "Express",
+      "via": "Hosapete",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 379,
+      "from": "Bengaluru",
+      "destination": "Kusthagi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 380,
+      "from": "Bengaluru",
+      "destination": "Kusthagi",
+      "serviceClass": "Express",
+      "via": "Hosapete",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 381,
+      "from": "Bengaluru",
+      "destination": "Kusthagi",
+      "serviceClass": "Express",
+      "via": "Hosapete",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 382,
+      "from": "Bengaluru",
+      "destination": "Kusthagi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 383,
+      "from": "Bengaluru",
+      "destination": "Kusthagi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 384,
+      "from": "Bengaluru",
+      "destination": "Kusthagi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 385,
+      "from": "Bengaluru",
+      "destination": "Laxmeshwar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 386,
+      "from": "Bengaluru",
+      "destination": "Laxmeshwar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 387,
+      "from": "Bengaluru",
+      "destination": "Laxmeshwar",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 388,
+      "from": "Doddaballapura",
+      "destination": "Laxmeshwar",
+      "serviceClass": "Express",
+      "via": "Davangere, Haveri",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 389,
+      "from": "Ballari",
+      "destination": "Mangaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Shivamogga, Thirthahalli",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 390,
+      "from": "Ballari",
+      "destination": "Mangaluru",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Kadur, Chikkamagaluru",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 391,
+      "from": "Ballari",
+      "destination": "Mangaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Shivamogga,thirthahalli",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 392,
+      "from": "Challakere",
+      "destination": "Manipal",
+      "serviceClass": "Express",
+      "via": "Shivamogga,thirthahalli",
+      "departureTime": "20:45"
+    },
+    {
+      "id": 393,
+      "from": "Bengaluru",
+      "destination": "Miraj",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "22:30"
+    },
+    {
+      "id": 394,
+      "from": "Chitradurga",
+      "destination": "Miraj",
+      "serviceClass": "Express",
+      "via": "Hosapete, Vijayapura, Athani",
+      "departureTime": "830:00"
+    },
+    {
+      "id": 395,
+      "from": "Panaji",
+      "destination": "Mulbagal",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Kolar",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 396,
+      "from": "Bengaluru",
+      "destination": "Mundargi",
+      "serviceClass": "Express",
+      "via": "Jagalur, Kottur, Itagi, Hadagali",
+      "departureTime": "00:00"
+    },
+    {
+      "id": 397,
+      "from": "Bengaluru",
+      "destination": "Mundargi",
+      "serviceClass": "Express",
+      "via": "Jagalur, Kottur",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 398,
+      "from": "Bengaluru",
+      "destination": "Mundargi",
+      "serviceClass": "Express",
+      "via": "Kottur",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 399,
+      "from": "Bengaluru",
+      "destination": "Mundargi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Harappanahalli",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 400,
+      "from": "Bengaluru",
+      "destination": "Mundargi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 401,
+      "from": "Hosapete",
+      "destination": "Mysuru",
+      "serviceClass": "Rajahamsa",
+      "via": "Huliyar, Turuvekere",
+      "departureTime": "00:45"
+    },
+    {
+      "id": 402,
+      "from": "Kalaburagi",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Surpur, Sindhanur, Hosapete, Hosadurga, Arasikere",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 403,
+      "from": "Raichur",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Turuvekere, Nagamangala",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 404,
+      "from": "Raichur",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Sindhanur, Hosapete, Huliyar, Turuvekere, Nagamangala",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 405,
+      "from": "Chitradurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Huliyar, Nagamangala",
+      "departureTime": "05:45"
+    },
+    {
+      "id": 406,
+      "from": "Chitradurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hosadurga, Belaguru, Arasikere, Channarayapatna",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 407,
+      "from": "Chitradurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Huliyar, Nagamangala",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 408,
+      "from": "Chitradurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Huliyar, K.B.Cross",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 409,
+      "from": "Davangere",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Huliyar, Turuvekere",
+      "departureTime": "21:30"
+    },
+    {
+      "id": 410,
+      "from": "Hosapete",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Huliyar, Tiptur, Channarayapatna",
+      "departureTime": "23:15"
+    },
+    {
+      "id": 411,
+      "from": "Davangere",
+      "destination": "Mysuru",
+      "serviceClass": "Airavat",
+      "via": "Tumakuru, Mandya",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 412,
+      "from": "Hosapete",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Turuvekere, Nagamangala",
+      "departureTime": "23:40"
+    },
+    {
+      "id": 413,
+      "from": "Chitradurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyur, Tumakuru, Bengaluru, Mandya",
+      "departureTime": "1130:00"
+    },
+    {
+      "id": 414,
+      "from": "Bengaluru",
+      "destination": "Narasapura",
+      "serviceClass": "Express",
+      "via": "Kudligi",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 415,
+      "from": "Bengaluru",
+      "destination": "Nargund",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 416,
+      "from": "Bengaluru",
+      "destination": "Nargund",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 417,
+      "from": "Bengaluru",
+      "destination": "Nargund",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 418,
+      "from": "Bengaluru",
+      "destination": "Nargund",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 419,
+      "from": "Mulbagal",
+      "destination": "Panaji",
+      "serviceClass": "Express",
+      "via": "Davangere, Haveri, Hubballi",
+      "departureTime": "23:45"
+    },
+    {
+      "id": 420,
+      "from": "Chitradurga",
+      "destination": "Pandhrapura",
+      "serviceClass": "Express",
+      "via": "Hosapete, Ilkal, Vijayapura",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 421,
+      "from": "Chitradurga",
+      "destination": "Poona",
+      "serviceClass": "Express",
+      "via": "Davangere, Hubballi, Belagavi, Kolhapura, Satara",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 422,
+      "from": "Mysuru",
+      "destination": "Raichur",
+      "serviceClass": "Express",
+      "via": "Nagamangala, Turuvekere, Hiliyar, Hosapete, Sindhanur",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 423,
+      "from": "Bengaluru",
+      "destination": "Ramadurga",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 424,
+      "from": "Bengaluru",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 425,
+      "from": "Bengaluru",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Gowribidnur, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 426,
+      "from": "Bengaluru",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Gowribidnur, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 427,
+      "from": "Bengaluru",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 428,
+      "from": "Ramnagara",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Tumakuru, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 429,
+      "from": "Bengaluru",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Gowribidnur, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 430,
+      "from": "Bengaluru",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 431,
+      "from": "Bengaluru",
+      "destination": "Rona",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 432,
+      "from": "Bengaluru",
+      "destination": "Ronaa",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 433,
+      "from": "Bengaluru",
+      "destination": "Ronaa",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 434,
+      "from": "Bengaluru",
+      "destination": "Ronaa",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 435,
+      "from": "Bengaluru",
+      "destination": "Ronaa",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Ranebennur",
+      "departureTime": "22:15"
+    },
+    {
+      "id": 436,
+      "from": "Ballari",
+      "destination": "Sakaleshpura",
+      "serviceClass": "Express",
+      "via": "Rampura, Hosadurga, Hassan",
+      "departureTime": "930:00"
+    },
+    {
+      "id": 437,
+      "from": "Bengaluru",
+      "destination": "Sandur",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 438,
+      "from": "Bengaluru",
+      "destination": "Savadatti",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri, Hubballi",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 439,
+      "from": "Bengaluru",
+      "destination": "Savanur",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 440,
+      "from": "Kalaburagi",
+      "destination": "Shivamogga",
+      "serviceClass": "A/C Sleeper",
+      "via": "Lingsugur, Hosapete",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 441,
+      "from": "Bengaluru",
+      "destination": "Shivamogga",
+      "serviceClass": "Airavat",
+      "via": "Holalkere, Channagiri, Shivamogga",
+      "departureTime": "11:10"
+    },
+    {
+      "id": 442,
+      "from": "Chitradurga",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Channagiri",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 443,
+      "from": "Bengaluru",
+      "destination": "Shivamogga",
+      "serviceClass": "Airavat",
+      "via": "Holalkere, Channagiri, Shivamogga",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 444,
+      "from": "Bengaluru",
+      "destination": "Shivamogga",
+      "serviceClass": "Airavat",
+      "via": "Holalkere, Channagiri, Shivamogga",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 445,
+      "from": "Ballari",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Channagiri",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 446,
+      "from": "Srinivasapura",
+      "destination": "Sirsi",
+      "serviceClass": "Vaibhava",
+      "via": "Davangere, Haveri",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 447,
+      "from": "Bengaluru",
+      "destination": "Sirsi",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Davangere, Harihar, Haveri",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 448,
+      "from": "Hosadurga",
+      "destination": "Siruguppa",
+      "serviceClass": "Express",
+      "via": "Challakere, Ballari",
+      "departureTime": "07:50"
+    },
+    {
+      "id": 449,
+      "from": "Sirsi",
+      "destination": "Srinivasapura",
+      "serviceClass": "Vaibhava",
+      "via": "Bengaluru, Kolar",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 450,
+      "from": "Hangal",
+      "destination": "Tirupati",
+      "serviceClass": "Express",
+      "via": "Bengaluru, Kolar, Palamaner",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 451,
+      "from": "Dandeli",
+      "destination": "Tirupati",
+      "serviceClass": "Rajahamsa",
+      "via": "Bengaluru, Kolar",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 452,
+      "from": "Davangere",
+      "destination": "Tirupati",
+      "serviceClass": "Airavat Club Class",
+      "via": "Bengaluru, Kolar",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 453,
+      "from": "Dharwad",
+      "destination": "Tirupati",
+      "serviceClass": "Express",
+      "via": "Sira, Madhugiri, Chintamani",
+      "departureTime": "21:15"
+    },
+    {
+      "id": 454,
+      "from": "Chitradurga",
+      "destination": "Tuljapura",
+      "serviceClass": "Express",
+      "via": "Hosapete, Ilkal, Vijayapura, Solapura",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 455,
+      "from": "K.g.f",
+      "destination": "Vijayapura",
+      "serviceClass": "Vaibhava",
+      "via": "Hosapete, Ilkal, Hungund",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 456,
+      "from": "Bengaluru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 457,
+      "from": "Bengaluru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 458,
+      "from": "Bengaluru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 459,
+      "from": "Bengaluru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Tumakuru, Sira, Hiriyur, Kudligi, Hosapete",
+      "departureTime": "22:45"
+    },
+    {
+      "id": 460,
+      "from": "Bengaluru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Hosapete",
+      "departureTime": "23:45"
+    }
+  ]
+}

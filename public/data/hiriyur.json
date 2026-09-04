@@ -1,0 +1,4122 @@
+{
+  "key": "Hiriyuru",
+  "station": "Hiriyuru Bus Stand",
+  "address": "Hiriyuru, Chitradurga District",
+  "contact": "",
+  "division": "Chitradurga Division",
+  "totalBuses": 514,
+  "buses": [
+    {
+      "id": 1,
+      "from": "Hiriyuru",
+      "destination": "Athani",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 2,
+      "from": "Hiriyuru",
+      "destination": "Aurad",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 3,
+      "from": "Hiriyuru",
+      "destination": "Badami",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 4,
+      "from": "Hiriyuru",
+      "destination": "Badami",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 5,
+      "from": "Hiriyuru",
+      "destination": "Bagalakote",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 6,
+      "from": "Hiriyuru",
+      "destination": "Bagalakote",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 7,
+      "from": "Hiriyuru",
+      "destination": "Bagepalli",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 8,
+      "from": "Hiriyuru",
+      "destination": "Bailahongala",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 9,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 10,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 11,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 12,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 13,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 14,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 15,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 16,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 17,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 18,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 19,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 20,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 21,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 22,
+      "from": "Hiriyuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 23,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "00:00"
+    },
+    {
+      "id": 24,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 25,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 26,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 27,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 28,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 29,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 30,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 31,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 32,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 33,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 34,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 35,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 36,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 37,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 38,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 39,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 40,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 41,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 42,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "00:00"
+    },
+    {
+      "id": 43,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 44,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 45,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 46,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 47,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 48,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 49,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 50,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 51,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 52,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 53,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 54,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 55,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 56,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 57,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 58,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 59,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 60,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 61,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 62,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 63,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 64,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 65,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 66,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 67,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 68,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 69,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 70,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 71,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 72,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 73,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 74,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 75,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 76,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 77,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 78,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 79,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 80,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 81,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 82,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 83,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 84,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 85,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 86,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 87,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 88,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 89,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 90,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 91,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 92,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 93,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 94,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 95,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 96,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 97,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 98,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 99,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 100,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 101,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 102,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 103,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 104,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 105,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 106,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 107,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 108,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 109,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 110,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 111,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 112,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 113,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 114,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 115,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 116,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 117,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 118,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 119,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 120,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 121,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 122,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 123,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 124,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 125,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 126,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 127,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 128,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 129,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 130,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 131,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 132,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 133,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 134,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 135,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 136,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 137,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 138,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 139,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 140,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 141,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "10:50"
+    },
+    {
+      "id": 142,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 143,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 144,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 145,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 146,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 147,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 148,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 149,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 150,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 151,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 152,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 153,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "00:60"
+    },
+    {
+      "id": 154,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 155,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 156,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 157,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 158,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 159,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 160,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 161,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 162,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 163,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 164,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 165,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 166,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 167,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 168,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 169,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 170,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 171,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 172,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "11:40"
+    },
+    {
+      "id": 173,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 174,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 175,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 176,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Tumakuru-bypass",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 177,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 178,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 179,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 180,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 181,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 182,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 183,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 184,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 185,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 186,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 187,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 188,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 189,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 190,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 191,
+      "from": "Hiriyuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 192,
+      "from": "Hiriyuru",
+      "destination": "Basavakalyna",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 193,
+      "from": "Hiriyuru",
+      "destination": "Basavakalyna",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 194,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 195,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 196,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 197,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 198,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 199,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 200,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 201,
+      "from": "Hiriyuru",
+      "destination": "Belagavi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 202,
+      "from": "Hiriyuru",
+      "destination": "Borankunate",
+      "serviceClass": "Ordinary",
+      "via": "Goraladaku",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 203,
+      "from": "Hiriyuru",
+      "destination": "Byadagi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 204,
+      "from": "Hiriyuru",
+      "destination": "Byadagi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 205,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 206,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 207,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 208,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 209,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 210,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 211,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 212,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Ordinary",
+      "via": "Sanikere",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 213,
+      "from": "Hiriyuru",
+      "destination": "Challakere",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 214,
+      "from": "Hiriyuru",
+      "destination": "Chennapatna",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 215,
+      "from": "Hiriyuru",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 216,
+      "from": "Hiriyuru",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 217,
+      "from": "Hiriyuru",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 218,
+      "from": "Hiriyuru",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 219,
+      "from": "Hiriyuru",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 220,
+      "from": "Hiriyuru",
+      "destination": "Chincholi",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 221,
+      "from": "Hiriyuru",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 222,
+      "from": "Hiriyuru",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 223,
+      "from": "Hiriyuru",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 224,
+      "from": "Hiriyuru",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 225,
+      "from": "Hiriyuru",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 226,
+      "from": "Mysore",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 227,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 228,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 229,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 230,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 231,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 232,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 233,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 234,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 235,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 236,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 237,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 238,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 239,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 240,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 241,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 242,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 243,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 244,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 245,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 246,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 247,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 248,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 249,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 250,
+      "from": "Mysore",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "21:30"
+    },
+    {
+      "id": 251,
+      "from": "Mysore",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 252,
+      "from": "Mysore",
+      "destination": "Chitradurga",
+      "serviceClass": "Rajahamsa",
+      "via": "Tumakuru",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 253,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 254,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 255,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 256,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 257,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 258,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 259,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 260,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 261,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 262,
+      "from": "Mysore",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 263,
+      "from": "Mysore",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Imangala",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 264,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 265,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 266,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 267,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 268,
+      "from": "Hiriyuru",
+      "destination": "Coimbatore",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 269,
+      "from": "Hiriyuru",
+      "destination": "Dandeli",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 270,
+      "from": "Hiriyuru",
+      "destination": "Darmapura",
+      "serviceClass": "Ordinary",
+      "via": "Hemadala",
+      "departureTime": "13:55"
+    },
+    {
+      "id": 271,
+      "from": "Hiriyuru",
+      "destination": "Darmapura",
+      "serviceClass": "Ordinary",
+      "via": "Hemadala",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 272,
+      "from": "Hiriyuru",
+      "destination": "Darmapura",
+      "serviceClass": "Ordinary",
+      "via": "Hemadala",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 273,
+      "from": "Hiriyuru",
+      "destination": "Dasudi",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 274,
+      "from": "Hiriyuru",
+      "destination": "Dasudi",
+      "serviceClass": "Ordinary",
+      "via": "Sheshappanalli",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 275,
+      "from": "Hiriyuru",
+      "destination": "Dasudi",
+      "serviceClass": "Ordinary",
+      "via": "Sheshappanalli",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 276,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 277,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 278,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 279,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 280,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 281,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 282,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 283,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 284,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 285,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 286,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 287,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "By-pass",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 288,
+      "from": "Hiriyuru",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 289,
+      "from": "Hiriyuru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 290,
+      "from": "Hiriyuru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 291,
+      "from": "Hiriyuru",
+      "destination": "Dindavara",
+      "serviceClass": "Ordinary",
+      "via": "Dindavara",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 292,
+      "from": "Hiriyuru",
+      "destination": "Doddaballapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 293,
+      "from": "Hiriyuru",
+      "destination": "Gadag",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 294,
+      "from": "Hiriyuru",
+      "destination": "Gadag",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 295,
+      "from": "Hiriyuru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 296,
+      "from": "Hiriyuru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 297,
+      "from": "Hiriyuru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 298,
+      "from": "Hiriyuru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 299,
+      "from": "Hiriyuru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 300,
+      "from": "Hiriyuru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 301,
+      "from": "Hiriyuru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 302,
+      "from": "Hiriyuru",
+      "destination": "Goguddu",
+      "serviceClass": "Ordinary",
+      "via": "Gounahalli",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 303,
+      "from": "Hiriyuru",
+      "destination": "Goguddu",
+      "serviceClass": "Ordinary",
+      "via": "Gounahalli",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 304,
+      "from": "Hiriyuru",
+      "destination": "Gowribidanur",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 305,
+      "from": "Mysore, Hiriyuru",
+      "destination": "Gulburga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 306,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 307,
+      "from": "Hiriyuru",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinary",
+      "via": "Imangala",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 308,
+      "from": "Hiriyuru",
+      "destination": "Hadagali",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 309,
+      "from": "Hiriyuru",
+      "destination": "Hagaribommanahalli",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 310,
+      "from": "Hiriyuru",
+      "destination": "Haliyala",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 311,
+      "from": "Hiriyuru",
+      "destination": "Hanagal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 312,
+      "from": "Hiriyuru",
+      "destination": "Hanagal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 313,
+      "from": "Hiriyuru",
+      "destination": "Hanagal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 314,
+      "from": "Hiriyuru",
+      "destination": "Hanagal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 315,
+      "from": "Hiriyuru",
+      "destination": "Hanagal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 316,
+      "from": "Hiriyuru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 317,
+      "from": "Hiriyuru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 318,
+      "from": "Hiriyuru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 319,
+      "from": "Hiriyuru",
+      "destination": "Harappanahalli",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 320,
+      "from": "Hiriyuru",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 321,
+      "from": "Hiriyuru",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 322,
+      "from": "Hiriyuru",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 323,
+      "from": "Hiriyuru",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 324,
+      "from": "Hiriyuru",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 325,
+      "from": "Hiriyuru",
+      "destination": "Harihara",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 326,
+      "from": "Hiriyuru",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Panchanalli",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 327,
+      "from": "Hiriyuru",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Panchanalli",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 328,
+      "from": "Hiriyuru",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Tipatur",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 329,
+      "from": "Hiriyuru",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Tipatur",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 330,
+      "from": "Hiriyuru",
+      "destination": "Haveri",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 331,
+      "from": "Hiriyuru",
+      "destination": "Haveri",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 332,
+      "from": "Hiriyuru",
+      "destination": "Haveri",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 333,
+      "from": "Hiriyuru",
+      "destination": "Hirekerur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 334,
+      "from": "Hiriyuru",
+      "destination": "Hirekerur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 335,
+      "from": "Hiriyuru",
+      "destination": "Hosadurga",
+      "serviceClass": "Ordinary",
+      "via": "V V Pura",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 336,
+      "from": "Hiriyuru",
+      "destination": "Hosadurga",
+      "serviceClass": "Ordinary",
+      "via": "V V Pura",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 337,
+      "from": "Hiriyuru",
+      "destination": "Hosadurga",
+      "serviceClass": "Ordinary",
+      "via": "V V Pura",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 338,
+      "from": "Hiriyuru",
+      "destination": "Hosadurga",
+      "serviceClass": "Ordinary",
+      "via": "V V Pura",
+      "departureTime": "15:45"
+    },
+    {
+      "id": 339,
+      "from": "Hiriyuru",
+      "destination": "Hosailakatte",
+      "serviceClass": "Ordinary",
+      "via": "Sheshappanalli",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 340,
+      "from": "Hiriyuru",
+      "destination": "Hosailakatte",
+      "serviceClass": "Ordinary",
+      "via": "Sheshappanalli",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 341,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 342,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 343,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 344,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 345,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 346,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 347,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 348,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 349,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 350,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 351,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 352,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 353,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 354,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 355,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 356,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 357,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 358,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 359,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 360,
+      "from": "Hiriyuru",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 361,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "00:00"
+    },
+    {
+      "id": 362,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 363,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 364,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 365,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 366,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 367,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 368,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 369,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 370,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 371,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 372,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 373,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 374,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 375,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 376,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 377,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 378,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 379,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 380,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 381,
+      "from": "Hiriyuru",
+      "destination": "Huballi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 382,
+      "from": "Hiriyuru",
+      "destination": "Humanbada",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 383,
+      "from": "Hiriyuru",
+      "destination": "Humanbada",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 384,
+      "from": "Hiriyuru",
+      "destination": "Hunugunda",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 385,
+      "from": "Hiriyuru",
+      "destination": "Hunugunda",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 386,
+      "from": "Hiriyuru",
+      "destination": "Borankunate",
+      "serviceClass": "Ordinary",
+      "via": "Goraladaku",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 387,
+      "from": "Hiriyuru",
+      "destination": "Oblapura",
+      "serviceClass": "Ordinary",
+      "via": "Bagganadu",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 388,
+      "from": "Hiriyuru",
+      "destination": "Indi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 389,
+      "from": "Hiriyuru",
+      "destination": "Kalagatagi",
+      "serviceClass": "Express",
+      "via": "Huballi",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 390,
+      "from": "Hiriyuru",
+      "destination": "Kannenalli Palya",
+      "serviceClass": "Ordinary",
+      "via": "Darmapura",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 391,
+      "from": "Hiriyuru",
+      "destination": "Karavara",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 392,
+      "from": "Hiriyuru",
+      "destination": "Karuru",
+      "serviceClass": "Express",
+      "via": "Selam",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 393,
+      "from": "Hiriyuru",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 394,
+      "from": "Hiriyuru",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 395,
+      "from": "Hiriyuru",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 396,
+      "from": "Hiriyuru",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 397,
+      "from": "Hiriyuru",
+      "destination": "Kodihalli",
+      "serviceClass": "Ordinary",
+      "via": "Haranakatte",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 398,
+      "from": "Hiriyuru",
+      "destination": "Kodihalli",
+      "serviceClass": "Ordinary",
+      "via": "Haranakatte",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 399,
+      "from": "Hiriyuru",
+      "destination": "Kolar",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 400,
+      "from": "Hiriyuru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Ballari",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 401,
+      "from": "Hiriyuru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 402,
+      "from": "Hiriyuru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 403,
+      "from": "Hiriyuru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 404,
+      "from": "Hiriyuru",
+      "destination": "Kukunur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 405,
+      "from": "Hiriyuru",
+      "destination": "Kukunur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 406,
+      "from": "Hiriyuru",
+      "destination": "Kurugodu",
+      "serviceClass": "Express",
+      "via": "Ballari",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 407,
+      "from": "Hiriyuru",
+      "destination": "Kushtigi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 408,
+      "from": "Hiriyuru",
+      "destination": "Kushtigi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 409,
+      "from": "Hiriyuru",
+      "destination": "Kushtigi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 410,
+      "from": "Hiriyuru",
+      "destination": "Laxmeshwar ",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 411,
+      "from": "Hiriyuru",
+      "destination": "Laxmeshwar ",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 412,
+      "from": "Hiriyuru",
+      "destination": "Laxmeshwar ",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 413,
+      "from": "Hiriyuru",
+      "destination": "Laxmeshwar ",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 414,
+      "from": "Hiriyuru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 415,
+      "from": "Hiriyuru",
+      "destination": "Maddehalli",
+      "serviceClass": "Ordinary",
+      "via": "Darmapura",
+      "departureTime": "19:45"
+    },
+    {
+      "id": 416,
+      "from": "Hiriyuru",
+      "destination": "Magadi",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 417,
+      "from": "Hiriyuru",
+      "destination": "Magadi",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 418,
+      "from": "Hiriyuru",
+      "destination": "Maluru",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 419,
+      "from": "Hiriyuru",
+      "destination": "Maluru",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 420,
+      "from": "Hiriyuru",
+      "destination": "Maluru",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 421,
+      "from": "Hiriyuru",
+      "destination": "Maluru",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 422,
+      "from": "Hiriyuru",
+      "destination": "Mandya",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 423,
+      "from": "Hiriyuru",
+      "destination": "Mandya",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 424,
+      "from": "Hiriyuru",
+      "destination": "Mantralaya",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 425,
+      "from": "Hiriyuru",
+      "destination": "Mantralaya",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 426,
+      "from": "Hiriyuru",
+      "destination": "Manvi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 427,
+      "from": "Hiriyuru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 428,
+      "from": "Hiriyuru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 429,
+      "from": "Hiriyuru",
+      "destination": "Muddebihala",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 430,
+      "from": "Hiriyuru",
+      "destination": "Mundaragi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 431,
+      "from": "Hiriyuru",
+      "destination": "Mundaragi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 432,
+      "from": "Hiriyuru",
+      "destination": "Mundaragi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 433,
+      "from": "Hiriyuru",
+      "destination": "Mundaragi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 434,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 435,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 436,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 437,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 438,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Rajahamsa",
+      "via": "Tumakuru",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 439,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 440,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 441,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 442,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 443,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 444,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 445,
+      "from": "Hiriyuru",
+      "destination": "Mysore",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 446,
+      "from": "Hiriyuru",
+      "destination": "Mysore, Periyapatna",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 447,
+      "from": "Hiriyuru",
+      "destination": "Mysore, Periyapatna",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 448,
+      "from": "Hiriyuru",
+      "destination": "Nanjanagudu",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 449,
+      "from": "Hiriyuru",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 450,
+      "from": "Hiriyuru",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 451,
+      "from": "Hiriyuru",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 452,
+      "from": "Hiriyuru",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 453,
+      "from": "Hiriyuru",
+      "destination": "Naragunda",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 454,
+      "from": "Hiriyuru",
+      "destination": "Nayakanahatti",
+      "serviceClass": "Express",
+      "via": "Sanikere",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 455,
+      "from": "Hiriyuru",
+      "destination": "Oblapura",
+      "serviceClass": "Ordinary",
+      "via": "K R Halli",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 456,
+      "from": "Hiriyuru",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinary",
+      "via": "Amarapura",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 457,
+      "from": "Hiriyuru",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinary",
+      "via": "Amarapura",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 458,
+      "from": "Hiriyuru",
+      "destination": "Pilajanahalli",
+      "serviceClass": "Ordinary",
+      "via": "Rangapura",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 459,
+      "from": "Hiriyuru",
+      "destination": "Pilajanahalli",
+      "serviceClass": "Ordinary",
+      "via": "Rangapura",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 460,
+      "from": "Hiriyuru",
+      "destination": "Pilajanahalli",
+      "serviceClass": "Ordinary",
+      "via": "Rangapura",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 461,
+      "from": "Hiriyuru",
+      "destination": "Raichur",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 462,
+      "from": "Hiriyuru",
+      "destination": "Raichur",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 463,
+      "from": "Hiriyuru",
+      "destination": "Raichur",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 464,
+      "from": "Hiriyuru",
+      "destination": "Raichur",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 465,
+      "from": "Hiriyuru",
+      "destination": "Raichur",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 466,
+      "from": "Hiriyuru",
+      "destination": "Raichur",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 467,
+      "from": "Hiriyuru",
+      "destination": "Ramadurga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 468,
+      "from": "Hiriyuru",
+      "destination": "Ramadurga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 469,
+      "from": "Hiriyuru",
+      "destination": "Ramanagara",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 470,
+      "from": "Hiriyuru",
+      "destination": "Ramanagara",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 471,
+      "from": "Hiriyuru",
+      "destination": "Ramanagara",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 472,
+      "from": "Hiriyuru",
+      "destination": "Ramanagara",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 473,
+      "from": "Hiriyuru",
+      "destination": "Ranebennur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 474,
+      "from": "Hiriyuru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "21:30"
+    },
+    {
+      "id": 475,
+      "from": "Hiriyuru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 476,
+      "from": "Hiriyuru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 477,
+      "from": "Hiriyuru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 478,
+      "from": "Hiriyuru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 479,
+      "from": "Hiriyuru",
+      "destination": "Rona",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 480,
+      "from": "Hiriyuru",
+      "destination": "Rona",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 481,
+      "from": "Hiriyuru",
+      "destination": "Sandur",
+      "serviceClass": "Express",
+      "via": "Ballari",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 482,
+      "from": "Hiriyuru",
+      "destination": "Sandur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 483,
+      "from": "Hiriyuru",
+      "destination": "Santebennur",
+      "serviceClass": "Express",
+      "via": "Channagiri",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 484,
+      "from": "Hiriyuru",
+      "destination": "Savadatti",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 485,
+      "from": "Hiriyuru",
+      "destination": "Savadatti",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 486,
+      "from": "Hiriyuru",
+      "destination": "Savanur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 487,
+      "from": "Hiriyuru",
+      "destination": "Savanur",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 488,
+      "from": "Hiriyuru",
+      "destination": "Selam",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 489,
+      "from": "Hiriyuru",
+      "destination": "Sidlagatta",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 490,
+      "from": "Hiriyuru",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 491,
+      "from": "Hiriyuru",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 492,
+      "from": "Hiriyuru",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 493,
+      "from": "Hiriyuru",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 494,
+      "from": "Hiriyuru",
+      "destination": "Sirsangi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 495,
+      "from": "Hiriyuru",
+      "destination": "Sirsi",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 496,
+      "from": "Hiriyuru",
+      "destination": "Siruguppa",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 497,
+      "from": "Hiriyuru",
+      "destination": "Siruguppa",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 498,
+      "from": "Hiriyuru",
+      "destination": "Srinivasapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 499,
+      "from": "Hiriyuru",
+      "destination": "Srinivasapura",
+      "serviceClass": "Express",
+      "via": "Bengaluru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 500,
+      "from": "Hiriyuru",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Express",
+      "via": "Challakere",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 501,
+      "from": "Hiriyuru",
+      "destination": "Thiruvnnmalee",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 502,
+      "from": "Hiriyuru",
+      "destination": "Tumakuru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 503,
+      "from": "Hiriyuru",
+      "destination": "Tumakuru",
+      "serviceClass": "Express",
+      "via": "Sira",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 504,
+      "from": "Hiriyuru",
+      "destination": "V V Pura",
+      "serviceClass": "Ordinary",
+      "via": "Kurubarahalli",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 505,
+      "from": "Hiriyuru",
+      "destination": "V V Pura",
+      "serviceClass": "Ordinary",
+      "via": "Kurubarahalli",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 506,
+      "from": "Hiriyuru",
+      "destination": "Venukalgudda",
+      "serviceClass": "Ordinary",
+      "via": "Muskal Matti",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 507,
+      "from": "Hiriyuru",
+      "destination": "Venukalgudda",
+      "serviceClass": "Ordinary",
+      "via": "Muskal Matti",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 508,
+      "from": "Hiriyuru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 509,
+      "from": "Hiriyuru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 510,
+      "from": "Hiriyuru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 511,
+      "from": "Hiriyuru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 512,
+      "from": "Hiriyuru",
+      "destination": "Yelburga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 513,
+      "from": "Hiriyuru",
+      "destination": "Yediyuru",
+      "serviceClass": "Express",
+      "via": "Huliyar",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 514,
+      "from": "Hiriyuru",
+      "destination": "Yelladakere",
+      "serviceClass": "Ordinary",
+      "via": "Dindavara",
+      "departureTime": "13:00"
+    }
+  ]
+}

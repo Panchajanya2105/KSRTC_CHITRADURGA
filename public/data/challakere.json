@@ -1,0 +1,3954 @@
+{
+  "key": "Challakere",
+  "station": "Challakere Bus Stand",
+  "address": "Challakere, Chitradurga District",
+  "contact": "7760990864",
+  "division": "Chitradurga Division",
+  "totalBuses": 493,
+  "buses": [
+    {
+      "id": 1,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "04:00"
+    },
+    {
+      "id": 2,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "04:20"
+    },
+    {
+      "id": 3,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "04:45"
+    },
+    {
+      "id": 4,
+      "from": "Nayakanahatti",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "05:45"
+    },
+    {
+      "id": 5,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "06:20"
+    },
+    {
+      "id": 6,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 7,
+      "from": "Obalapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "07:20"
+    },
+    {
+      "id": 8,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 9,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 10,
+      "from": "Obalapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 11,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 12,
+      "from": "Obalapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 13,
+      "from": "Tappagondanahalli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 14,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 15,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 16,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:40"
+    },
+    {
+      "id": 17,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 18,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 19,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 20,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 21,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 22,
+      "from": "Challakere",
+      "destination": "Tumakuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 23,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 24,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 25,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "08:10"
+    },
+    {
+      "id": 26,
+      "from": "Challakere",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 27,
+      "from": "Challakere",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 28,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 29,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 30,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 31,
+      "from": "Chitradurga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "15:10"
+    },
+    {
+      "id": 32,
+      "from": "Challakere",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "07:20"
+    },
+    {
+      "id": 33,
+      "from": "Challakere",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 34,
+      "from": "Challakere",
+      "destination": "Chikkamangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "09:05"
+    },
+    {
+      "id": 35,
+      "from": "Challakere",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "14:20"
+    },
+    {
+      "id": 36,
+      "from": "Pavagada",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "17:40"
+    },
+    {
+      "id": 37,
+      "from": "Kalyanadurga",
+      "destination": "Dharmasthala",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "18:45"
+    },
+    {
+      "id": 38,
+      "from": "Molakalmuru",
+      "destination": "Ennapoya",
+      "serviceClass": "Rajahamsa",
+      "via": "Chitradurga",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 39,
+      "from": "Challakere",
+      "destination": "Ananthapura",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 40,
+      "from": "Chitradurga",
+      "destination": "Ananthapura",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 41,
+      "from": "Chitradurga",
+      "destination": "Ananthapura",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 42,
+      "from": "Challakere",
+      "destination": "Kalyanadurga",
+      "serviceClass": "Express",
+      "via": "Ullarthi",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 43,
+      "from": "Bengaluru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Talaku",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 44,
+      "from": "Challakere",
+      "destination": "Gtttc",
+      "serviceClass": "Ordinery",
+      "via": "",
+      "departureTime": "08:55"
+    },
+    {
+      "id": 45,
+      "from": "Challakere",
+      "destination": "Gtttc",
+      "serviceClass": "Ordinery",
+      "via": "",
+      "departureTime": "16:20"
+    },
+    {
+      "id": 46,
+      "from": "Challakere",
+      "destination": "Hiriyuru",
+      "serviceClass": "Ordinery",
+      "via": "Sanikere",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 47,
+      "from": "Challakere",
+      "destination": "Kalmarahalli",
+      "serviceClass": "Ordinery",
+      "via": "Sanikere",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 48,
+      "from": "Challakere",
+      "destination": "Kalmarahalli",
+      "serviceClass": "Ordinery",
+      "via": "Sanikere",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 49,
+      "from": "Challakere",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Pavagada",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 50,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 51,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 52,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "08:50"
+    },
+    {
+      "id": 53,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "09:10"
+    },
+    {
+      "id": 54,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 55,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 56,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 57,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "12:10"
+    },
+    {
+      "id": 58,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 59,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 60,
+      "from": "Challakere",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 61,
+      "from": "Challakere",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 62,
+      "from": "Chitradurga",
+      "destination": "Pavagada",
+      "serviceClass": "Ordinery",
+      "via": "Parashurampura",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 63,
+      "from": "Challakere",
+      "destination": "Parashurampura",
+      "serviceClass": "Ordinery",
+      "via": "Dodderi",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 64,
+      "from": "Challakere",
+      "destination": "Parashurampura",
+      "serviceClass": "Ordinery",
+      "via": "Dodderi",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 65,
+      "from": "Challakere",
+      "destination": "Kadehude",
+      "serviceClass": "Ordinery",
+      "via": "Purlahalli",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 66,
+      "from": "Challakere",
+      "destination": "Kadehude",
+      "serviceClass": "Ordinery",
+      "via": "Purlahalli",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 67,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "07:40"
+    },
+    {
+      "id": 68,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 69,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 70,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 71,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 72,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 73,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 74,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "17:10"
+    },
+    {
+      "id": 75,
+      "from": "Challakere",
+      "destination": "Kyathagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Kaluvehalli",
+      "departureTime": "19:20"
+    },
+    {
+      "id": 76,
+      "from": "Challakere",
+      "destination": "Karikere",
+      "serviceClass": "Ordinery",
+      "via": "Bharamasagara",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 77,
+      "from": "Challakere",
+      "destination": "Karikere",
+      "serviceClass": "Ordinery",
+      "via": "Bharamasagara",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 78,
+      "from": "Challakere",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 79,
+      "from": "Challakere",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 80,
+      "from": "Challakere",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 81,
+      "from": "Challakere",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 82,
+      "from": "Challakere",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 83,
+      "from": "Challakere",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 84,
+      "from": "Challakere",
+      "destination": "Thippareddihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 85,
+      "from": "Challakere",
+      "destination": "Dodabhadhihalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 86,
+      "from": "Bengaluru",
+      "destination": "Obalapura",
+      "serviceClass": "Express",
+      "via": "Jajuru",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 87,
+      "from": "Challakere",
+      "destination": "T N Kote",
+      "serviceClass": "Ordinery",
+      "via": "Nagramgere",
+      "departureTime": "08:50"
+    },
+    {
+      "id": 88,
+      "from": "Challakere",
+      "destination": "Doddachelluru",
+      "serviceClass": "Ordinery",
+      "via": "Nagramgere",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 89,
+      "from": "Challakere",
+      "destination": "P Obanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Nagramgere",
+      "departureTime": "18:50"
+    },
+    {
+      "id": 90,
+      "from": "Challakere",
+      "destination": "Parashurampura",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 91,
+      "from": "Challakere",
+      "destination": "Pagadalabande",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 92,
+      "from": "Challakere",
+      "destination": "Parashurampura",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 93,
+      "from": "Challakere",
+      "destination": "T N Kote",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 94,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 95,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 96,
+      "from": "Challakere",
+      "destination": "Dodabhadhihalli",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 97,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 98,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 99,
+      "from": "Challakere",
+      "destination": "Dodabhadhihalli",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 100,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 101,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 102,
+      "from": "Challakere",
+      "destination": "Dodabhadhihalli",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 103,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 104,
+      "from": "Challakere",
+      "destination": "Obalapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 105,
+      "from": "Challakere",
+      "destination": "Dodabhadhihalli",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 106,
+      "from": "Challakere",
+      "destination": "Basapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 107,
+      "from": "Challakere",
+      "destination": "Basapura",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 108,
+      "from": "Challakere",
+      "destination": "Doddaullarthi",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 109,
+      "from": "Challakere",
+      "destination": "Doddaullarthi",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 110,
+      "from": "Challakere",
+      "destination": "Tappagondanahalli",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 111,
+      "from": "Challakere",
+      "destination": "Challakere",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 112,
+      "from": "Challakere",
+      "destination": "Challakere",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 113,
+      "from": "Challakere",
+      "destination": "Challakere",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 114,
+      "from": "Challakere",
+      "destination": "Challakere",
+      "serviceClass": "Ordinery",
+      "via": "Jajuru",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 115,
+      "from": "Challakere",
+      "destination": "Devaramarikunte",
+      "serviceClass": "Ordinery",
+      "via": "Dodderi",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 116,
+      "from": "Challakere",
+      "destination": "Devaramarikunte",
+      "serviceClass": "Ordinery",
+      "via": "Dodderi",
+      "departureTime": "16:45"
+    },
+    {
+      "id": 117,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 118,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "08:50"
+    },
+    {
+      "id": 119,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 120,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 121,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 122,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 123,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 124,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 125,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 126,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Rajahamsa",
+      "via": "Kondlahalli",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 127,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 128,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "18:45"
+    },
+    {
+      "id": 129,
+      "from": "Challakere",
+      "destination": "Molakalmuru",
+      "serviceClass": "Ordinery",
+      "via": "Kondlahalli",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 130,
+      "from": "Challakere",
+      "destination": "Bandekatte",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 131,
+      "from": "Challakere",
+      "destination": "Bandekatte",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 132,
+      "from": "Challakere",
+      "destination": "Mannekote",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 133,
+      "from": "Challakere",
+      "destination": "Mannekote",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "14:45"
+    },
+    {
+      "id": 134,
+      "from": "Challakere",
+      "destination": "Mallasamudra",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "08:50"
+    },
+    {
+      "id": 135,
+      "from": "Challakere",
+      "destination": "Mallasamudra",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 136,
+      "from": "Challakere",
+      "destination": "Mallasamudra",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 137,
+      "from": "Challakere",
+      "destination": "Mitlakatte",
+      "serviceClass": "Ordinery",
+      "via": "Duggavara",
+      "departureTime": "18:30"
+    },
+    {
+      "id": 138,
+      "from": "Challakere",
+      "destination": "Chikkahalli",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "07:50"
+    },
+    {
+      "id": 139,
+      "from": "Challakere",
+      "destination": "Banjigere",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 140,
+      "from": "Challakere",
+      "destination": "Banjigere",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 141,
+      "from": "Challakere",
+      "destination": "Chikkahalli",
+      "serviceClass": "Ordinery",
+      "via": "Talaku",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 142,
+      "from": "Challakere",
+      "destination": "Mallurahalli",
+      "serviceClass": "Ordinery",
+      "via": "Neralagunte",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 143,
+      "from": "Challakere",
+      "destination": "Nayakanahatti",
+      "serviceClass": "Ordinery",
+      "via": "Neralagunte",
+      "departureTime": "07:45"
+    },
+    {
+      "id": 144,
+      "from": "Challakere",
+      "destination": "Nayakanahatti",
+      "serviceClass": "Ordinery",
+      "via": "Neralagunte",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 145,
+      "from": "Challakere",
+      "destination": "Obainahatti",
+      "serviceClass": "Ordinery",
+      "via": "Neralagunte",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 146,
+      "from": "Challakere",
+      "destination": "Nayakanahatti",
+      "serviceClass": "Ordinery",
+      "via": "Neralagunte",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 147,
+      "from": "Challakere",
+      "destination": "Mallurahalli",
+      "serviceClass": "Ordinery",
+      "via": "Neralagunte",
+      "departureTime": "15:10"
+    },
+    {
+      "id": 148,
+      "from": "Challakere",
+      "destination": "Nayakanahatti",
+      "serviceClass": "Ordinery",
+      "via": "Neralagunte",
+      "departureTime": "17:10"
+    },
+    {
+      "id": 149,
+      "from": "Bengaluru",
+      "destination": "Nayakanahatti",
+      "serviceClass": "Express",
+      "via": "Neralagunte",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 150,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 151,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 152,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 153,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 154,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 155,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 156,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 157,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Haikal",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 158,
+      "from": "Challakere",
+      "destination": "Pelurahatti",
+      "serviceClass": "Ordinery",
+      "via": "Veerdimanahall",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 159,
+      "from": "Challakere",
+      "destination": "Pelurahatti",
+      "serviceClass": "Ordinery",
+      "via": "Veerdimanahall",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 160,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "06:00"
+    },
+    {
+      "id": 161,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "06:10"
+    },
+    {
+      "id": 162,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "06:30"
+    },
+    {
+      "id": 163,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 164,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "07:00"
+    },
+    {
+      "id": 165,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 166,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "07:50"
+    },
+    {
+      "id": 167,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "08:00"
+    },
+    {
+      "id": 168,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "08:20"
+    },
+    {
+      "id": 169,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 170,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "08:10"
+    },
+    {
+      "id": 171,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "08:50"
+    },
+    {
+      "id": 172,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 173,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:05"
+    },
+    {
+      "id": 174,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "09:10"
+    },
+    {
+      "id": 175,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:40"
+    },
+    {
+      "id": 176,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 177,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 178,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:48"
+    },
+    {
+      "id": 179,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:50"
+    },
+    {
+      "id": 180,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "09:55"
+    },
+    {
+      "id": 181,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:10"
+    },
+    {
+      "id": 182,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 183,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 184,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:08"
+    },
+    {
+      "id": 185,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "10:10"
+    },
+    {
+      "id": 186,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:16"
+    },
+    {
+      "id": 187,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:20"
+    },
+    {
+      "id": 188,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:22"
+    },
+    {
+      "id": 189,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:25"
+    },
+    {
+      "id": 190,
+      "from": "Ballari",
+      "destination": "Shivamogga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "10:30"
+    },
+    {
+      "id": 191,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:35"
+    },
+    {
+      "id": 192,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:40"
+    },
+    {
+      "id": 193,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 194,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 195,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 196,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "11:02"
+    },
+    {
+      "id": 197,
+      "from": "Ballari",
+      "destination": "Davangere",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 198,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:10"
+    },
+    {
+      "id": 199,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 200,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:20"
+    },
+    {
+      "id": 201,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:22"
+    },
+    {
+      "id": 202,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:25"
+    },
+    {
+      "id": 203,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 204,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:40"
+    },
+    {
+      "id": 205,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:42"
+    },
+    {
+      "id": 206,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:43"
+    },
+    {
+      "id": 207,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 208,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:46"
+    },
+    {
+      "id": 209,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:50"
+    },
+    {
+      "id": 210,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "11:55"
+    },
+    {
+      "id": 211,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 212,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:05"
+    },
+    {
+      "id": 213,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:10"
+    },
+    {
+      "id": 214,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:15"
+    },
+    {
+      "id": 215,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:20"
+    },
+    {
+      "id": 216,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:22"
+    },
+    {
+      "id": 217,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:25"
+    },
+    {
+      "id": 218,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:28"
+    },
+    {
+      "id": 219,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:25"
+    },
+    {
+      "id": 220,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:25"
+    },
+    {
+      "id": 221,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "12:35"
+    },
+    {
+      "id": 222,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:40"
+    },
+    {
+      "id": 223,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 224,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 225,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:10"
+    },
+    {
+      "id": 226,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "13:05"
+    },
+    {
+      "id": 227,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 228,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 229,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 230,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 231,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:32"
+    },
+    {
+      "id": 232,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:40"
+    },
+    {
+      "id": 233,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:42"
+    },
+    {
+      "id": 234,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:45"
+    },
+    {
+      "id": 235,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 236,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:05"
+    },
+    {
+      "id": 237,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:50"
+    },
+    {
+      "id": 238,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:10"
+    },
+    {
+      "id": 239,
+      "from": "Pavagada",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:05"
+    },
+    {
+      "id": 240,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "13:05"
+    },
+    {
+      "id": 241,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 242,
+      "from": "Ananthapura",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 243,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:35"
+    },
+    {
+      "id": 244,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:20"
+    },
+    {
+      "id": 245,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:40"
+    },
+    {
+      "id": 246,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "14:50"
+    },
+    {
+      "id": 247,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "15:25"
+    },
+    {
+      "id": 248,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 249,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 250,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "15:20"
+    },
+    {
+      "id": 251,
+      "from": "Ananthapura",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 252,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "15:10"
+    },
+    {
+      "id": 253,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 254,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "16:10"
+    },
+    {
+      "id": 255,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "16:50"
+    },
+    {
+      "id": 256,
+      "from": "Ananthapura",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 257,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 258,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 259,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "18:45"
+    },
+    {
+      "id": 260,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "18:15"
+    },
+    {
+      "id": 261,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 262,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 263,
+      "from": "Ballari",
+      "destination": "Chitradurga",
+      "serviceClass": "Express",
+      "via": "Kallahalli",
+      "departureTime": "19:30"
+    },
+    {
+      "id": 264,
+      "from": "Challakere",
+      "destination": "Chitradurga",
+      "serviceClass": "Ordinery",
+      "via": "Kallahalli",
+      "departureTime": "19:40"
+    },
+    {
+      "id": 265,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "06:40"
+    },
+    {
+      "id": 266,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "06:45"
+    },
+    {
+      "id": 267,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "07:15"
+    },
+    {
+      "id": 268,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Olvo",
+      "via": "Hiriyuru",
+      "departureTime": "07:20"
+    },
+    {
+      "id": 269,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:15"
+    },
+    {
+      "id": 270,
+      "from": "Ballari",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:20"
+    },
+    {
+      "id": 271,
+      "from": "Ballari",
+      "destination": "Maluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 272,
+      "from": "Ballari",
+      "destination": "Shrinivaspura",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:40"
+    },
+    {
+      "id": 273,
+      "from": "Ballari",
+      "destination": "Gowribidanuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "08:25"
+    },
+    {
+      "id": 274,
+      "from": "Sindhanuru",
+      "destination": "Ramanagara",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "09:15"
+    },
+    {
+      "id": 275,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "09:40"
+    },
+    {
+      "id": 276,
+      "from": "Mantralaya",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "09:50"
+    },
+    {
+      "id": 277,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 278,
+      "from": "Mantralaya",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:20"
+    },
+    {
+      "id": 279,
+      "from": "Hosapete",
+      "destination": "Kolar",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:40"
+    },
+    {
+      "id": 280,
+      "from": "Lingasuru",
+      "destination": "Ramanagara",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "10:50"
+    },
+    {
+      "id": 281,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 282,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:40"
+    },
+    {
+      "id": 283,
+      "from": "Ballari",
+      "destination": "Mandya",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:45"
+    },
+    {
+      "id": 284,
+      "from": "Sindhanuru",
+      "destination": "Maluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:50"
+    },
+    {
+      "id": 285,
+      "from": "Koppal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 286,
+      "from": "Sindhanuru",
+      "destination": "Maluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 287,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "12:40"
+    },
+    {
+      "id": 288,
+      "from": "Manvi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 289,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "13:10"
+    },
+    {
+      "id": 290,
+      "from": "Gangavathi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 291,
+      "from": "Kuragodu",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "13:35"
+    },
+    {
+      "id": 292,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 293,
+      "from": "Sindhanuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "14:15"
+    },
+    {
+      "id": 294,
+      "from": "Shapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "14:20"
+    },
+    {
+      "id": 295,
+      "from": "Maski",
+      "destination": "Tumakuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 296,
+      "from": "Siraguppa",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 297,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "15:10"
+    },
+    {
+      "id": 298,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 299,
+      "from": "Kukkanuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "15:40"
+    },
+    {
+      "id": 300,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 301,
+      "from": "Kuragodu",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "16:10"
+    },
+    {
+      "id": 302,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 303,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "16:25"
+    },
+    {
+      "id": 304,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "16:20"
+    },
+    {
+      "id": 305,
+      "from": "Siraguppa",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "16:30"
+    },
+    {
+      "id": 306,
+      "from": "Devadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "16:40"
+    },
+    {
+      "id": 307,
+      "from": "Maski",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 308,
+      "from": "Gangavathi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 309,
+      "from": "Devadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "15:40"
+    },
+    {
+      "id": 310,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Olvo",
+      "via": "Hiriyuru",
+      "departureTime": "17:45"
+    },
+    {
+      "id": 311,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 312,
+      "from": "Kuragodu",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "18:45"
+    },
+    {
+      "id": 313,
+      "from": "Siraguppa",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 314,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 315,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Rajahamsa",
+      "via": "Hiriyuru",
+      "departureTime": "20:20"
+    },
+    {
+      "id": 316,
+      "from": "Kushtagi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "20:30"
+    },
+    {
+      "id": 317,
+      "from": "Challakere",
+      "destination": "Kukke Subrhamanya",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "07:30"
+    },
+    {
+      "id": 318,
+      "from": "Ballari",
+      "destination": "Mangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 319,
+      "from": "Ballari",
+      "destination": "Mangalore",
+      "serviceClass": "Sleeper",
+      "via": "Chitradurga",
+      "departureTime": "19:45"
+    },
+    {
+      "id": 320,
+      "from": "Ballari",
+      "destination": "Mangalore",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 321,
+      "from": "Ballari",
+      "destination": "Kukke Subrhamanya",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "21:30"
+    },
+    {
+      "id": 322,
+      "from": "Ballari",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "08:45"
+    },
+    {
+      "id": 323,
+      "from": "Ballari",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 324,
+      "from": "Ballari",
+      "destination": "Ramanathapura",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "11:15"
+    },
+    {
+      "id": 325,
+      "from": "Challakere",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 326,
+      "from": "Mangalore",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "06:15"
+    },
+    {
+      "id": 327,
+      "from": "Bengaluru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "08:30"
+    },
+    {
+      "id": 328,
+      "from": "Bengaluru",
+      "destination": "Kuragodu",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "09:00"
+    },
+    {
+      "id": 329,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "09:20"
+    },
+    {
+      "id": 330,
+      "from": "Bengaluru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "09:30"
+    },
+    {
+      "id": 331,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "09:40"
+    },
+    {
+      "id": 332,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "09:45"
+    },
+    {
+      "id": 333,
+      "from": "Bengaluru",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "09:50"
+    },
+    {
+      "id": 334,
+      "from": "Bengaluru",
+      "destination": "Kukkanuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "10:00"
+    },
+    {
+      "id": 335,
+      "from": "Bengaluru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "10:15"
+    },
+    {
+      "id": 336,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "10:45"
+    },
+    {
+      "id": 337,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "11:00"
+    },
+    {
+      "id": 338,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "09:25"
+    },
+    {
+      "id": 339,
+      "from": "Bengaluru",
+      "destination": "Kuragodu",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "11:10"
+    },
+    {
+      "id": 340,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "11:20"
+    },
+    {
+      "id": 341,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "11:30"
+    },
+    {
+      "id": 342,
+      "from": "Bengaluru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "11:40"
+    },
+    {
+      "id": 343,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "12:00"
+    },
+    {
+      "id": 344,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "12:30"
+    },
+    {
+      "id": 345,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 346,
+      "from": "Bengaluru",
+      "destination": "Siraguppa",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "13:00"
+    },
+    {
+      "id": 347,
+      "from": "Bengaluru",
+      "destination": "Siraguppa",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "13:10"
+    },
+    {
+      "id": 348,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "13:15"
+    },
+    {
+      "id": 349,
+      "from": "Bengaluru",
+      "destination": "Gangavathi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "13:20"
+    },
+    {
+      "id": 350,
+      "from": "Maluru",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "13:30"
+    },
+    {
+      "id": 351,
+      "from": "Bengaluru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "14:00"
+    },
+    {
+      "id": 352,
+      "from": "Ramanagara",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "14:30"
+    },
+    {
+      "id": 353,
+      "from": "Ramanagara",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "15:00"
+    },
+    {
+      "id": 354,
+      "from": "Bengaluru",
+      "destination": "Kudligi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "14:40"
+    },
+    {
+      "id": 355,
+      "from": "Ramanathapura",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "15:15"
+    },
+    {
+      "id": 356,
+      "from": "Maluru",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "15:20"
+    },
+    {
+      "id": 357,
+      "from": "Gowribidanuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "15:30"
+    },
+    {
+      "id": 358,
+      "from": "Bengaluru",
+      "destination": "Manvi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "15:40"
+    },
+    {
+      "id": 359,
+      "from": "Bengaluru",
+      "destination": "Koppal",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "16:00"
+    },
+    {
+      "id": 360,
+      "from": "Davangere",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 361,
+      "from": "Bengaluru",
+      "destination": "Mantralaya",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "16:20"
+    },
+    {
+      "id": 362,
+      "from": "Kgf",
+      "destination": "Mantralaya",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "16:15"
+    },
+    {
+      "id": 363,
+      "from": "Kolar",
+      "destination": "Hosapete",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "17:00"
+    },
+    {
+      "id": 364,
+      "from": "Shrinivaspura",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "17:15"
+    },
+    {
+      "id": 365,
+      "from": "Maluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "17:35"
+    },
+    {
+      "id": 366,
+      "from": "Mysuru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "18:00"
+    },
+    {
+      "id": 367,
+      "from": "Bengaluru",
+      "destination": "Avarad",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "17:30"
+    },
+    {
+      "id": 368,
+      "from": "Bengaluru",
+      "destination": "Chincholi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "18:20"
+    },
+    {
+      "id": 369,
+      "from": "Bengaluru",
+      "destination": "Umnabad",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "18:40"
+    },
+    {
+      "id": 370,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "18:50"
+    },
+    {
+      "id": 371,
+      "from": "Kgf",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "19:15"
+    },
+    {
+      "id": 372,
+      "from": "Hassan",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "19:00"
+    },
+    {
+      "id": 373,
+      "from": "Shivamogga",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "19:45"
+    },
+    {
+      "id": 374,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 375,
+      "from": "Bengaluru",
+      "destination": "Umnabad",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "20:10"
+    },
+    {
+      "id": 376,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "20:15"
+    },
+    {
+      "id": 377,
+      "from": "Bengaluru",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "20:51"
+    },
+    {
+      "id": 378,
+      "from": "Bengaluru",
+      "destination": "Gurumadkal",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "21:50"
+    },
+    {
+      "id": 379,
+      "from": "Bengaluru",
+      "destination": "Basavakalyana",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "20:00"
+    },
+    {
+      "id": 380,
+      "from": "Bengaluru",
+      "destination": "Alanda",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "21:00"
+    },
+    {
+      "id": 381,
+      "from": "Sirivara",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "22:00"
+    },
+    {
+      "id": 382,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "22:30"
+    },
+    {
+      "id": 383,
+      "from": "Sindhanuru",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "22:50"
+    },
+    {
+      "id": 384,
+      "from": "Kuragodu",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "23:00"
+    },
+    {
+      "id": 385,
+      "from": "Rayadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 386,
+      "from": "Jindal(jsw)",
+      "destination": "Shrinivaspura",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "23:45"
+    },
+    {
+      "id": 387,
+      "from": "Kalburgi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "23:50"
+    },
+    {
+      "id": 388,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "23:55"
+    },
+    {
+      "id": 389,
+      "from": "Maski",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:05"
+    },
+    {
+      "id": 390,
+      "from": "Ballari",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:10"
+    },
+    {
+      "id": 391,
+      "from": "Siraguppa",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 392,
+      "from": "Sedum",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 393,
+      "from": "Raichuru",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:25"
+    },
+    {
+      "id": 394,
+      "from": "Manvi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 395,
+      "from": "Lingasuru",
+      "destination": "Shrinivaspura",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:35"
+    },
+    {
+      "id": 396,
+      "from": "Lingasuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:40"
+    },
+    {
+      "id": 397,
+      "from": "Sedum",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:50"
+    },
+    {
+      "id": 398,
+      "from": "Siraguppa",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 399,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 400,
+      "from": "Siraguppa",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 401,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:20"
+    },
+    {
+      "id": 402,
+      "from": "Umnabad",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:45"
+    },
+    {
+      "id": 403,
+      "from": "Lingasuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "00:20"
+    },
+    {
+      "id": 404,
+      "from": "Maski",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:25"
+    },
+    {
+      "id": 405,
+      "from": "Chincholi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 406,
+      "from": "Maski",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:35"
+    },
+    {
+      "id": 407,
+      "from": "Sindhanuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:40"
+    },
+    {
+      "id": 408,
+      "from": "Devadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 409,
+      "from": "Gurumadkal",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:50"
+    },
+    {
+      "id": 410,
+      "from": "Lingasuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:55"
+    },
+    {
+      "id": 411,
+      "from": "Devadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:05"
+    },
+    {
+      "id": 412,
+      "from": "Maski",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:10"
+    },
+    {
+      "id": 413,
+      "from": "Maski",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 414,
+      "from": "Devadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:35"
+    },
+    {
+      "id": 415,
+      "from": "Maski",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:50"
+    },
+    {
+      "id": 416,
+      "from": "Ballari",
+      "destination": "Shrinivaspura",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:55"
+    },
+    {
+      "id": 417,
+      "from": "Lingasuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 418,
+      "from": "Devadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:10"
+    },
+    {
+      "id": 419,
+      "from": "Shapura",
+      "destination": "Chintamani",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "12:45"
+    },
+    {
+      "id": 420,
+      "from": "Raichuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:35"
+    },
+    {
+      "id": 421,
+      "from": "Manvi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 422,
+      "from": "Lingasuru",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 423,
+      "from": "Shapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "03:05"
+    },
+    {
+      "id": 424,
+      "from": "Jalhali",
+      "destination": "Kgf",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 425,
+      "from": "Shapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:45"
+    },
+    {
+      "id": 426,
+      "from": "Sedum",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:10"
+    },
+    {
+      "id": 427,
+      "from": "Gulbarga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 428,
+      "from": "Umnabad",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 429,
+      "from": "Devadurga",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 430,
+      "from": "Alanda",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 431,
+      "from": "Shapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "03:30"
+    },
+    {
+      "id": 432,
+      "from": "Kampli",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:20"
+    },
+    {
+      "id": 433,
+      "from": "Sedum",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 434,
+      "from": "Jevargi",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "03:05"
+    },
+    {
+      "id": 435,
+      "from": "Bengaluru",
+      "destination": "Kalburgi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "21:45"
+    },
+    {
+      "id": 436,
+      "from": "Bengaluru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "22:00"
+    },
+    {
+      "id": 437,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "22:30"
+    },
+    {
+      "id": 438,
+      "from": "Bengaluru",
+      "destination": "Google",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "22:45"
+    },
+    {
+      "id": 439,
+      "from": "Bengaluru",
+      "destination": "Jevargi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "22:50"
+    },
+    {
+      "id": 440,
+      "from": "Bengaluru",
+      "destination": "Gulbarga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "22:50"
+    },
+    {
+      "id": 441,
+      "from": "Bengaluru",
+      "destination": "Jevargi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:00"
+    },
+    {
+      "id": 442,
+      "from": "Bengaluru",
+      "destination": "Jevargi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:05"
+    },
+    {
+      "id": 443,
+      "from": "Bengaluru",
+      "destination": "Gulbarga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:15"
+    },
+    {
+      "id": 444,
+      "from": "Bengaluru",
+      "destination": "Manvi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:20"
+    },
+    {
+      "id": 445,
+      "from": "Bengaluru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 446,
+      "from": "Bengaluru",
+      "destination": "Kembavi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:35"
+    },
+    {
+      "id": 447,
+      "from": "Bengaluru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:45"
+    },
+    {
+      "id": 448,
+      "from": "Bengaluru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:50"
+    },
+    {
+      "id": 449,
+      "from": "Bengaluru",
+      "destination": "Yadagiri",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "23:55"
+    },
+    {
+      "id": 450,
+      "from": "Bengaluru",
+      "destination": "Gulbarga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:00"
+    },
+    {
+      "id": 451,
+      "from": "Bengaluru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 452,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:20"
+    },
+    {
+      "id": 453,
+      "from": "Bengaluru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:25"
+    },
+    {
+      "id": 454,
+      "from": "Bengaluru",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 455,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:35"
+    },
+    {
+      "id": 456,
+      "from": "Bengaluru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:40"
+    },
+    {
+      "id": 457,
+      "from": "Bengaluru",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:45"
+    },
+    {
+      "id": 458,
+      "from": "Bengaluru",
+      "destination": "Manvi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:50"
+    },
+    {
+      "id": 459,
+      "from": "Bengaluru",
+      "destination": "Sajjalagudda",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:55"
+    },
+    {
+      "id": 460,
+      "from": "Bengaluru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 461,
+      "from": "Bengaluru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:10"
+    },
+    {
+      "id": 462,
+      "from": "Bengaluru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:15"
+    },
+    {
+      "id": 463,
+      "from": "Shrinivaspura",
+      "destination": "Ballari",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:20"
+    },
+    {
+      "id": 464,
+      "from": "Bengaluru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:25"
+    },
+    {
+      "id": 465,
+      "from": "Bengaluru",
+      "destination": "Shapura",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:32"
+    },
+    {
+      "id": 466,
+      "from": "Bengaluru",
+      "destination": "Sedum",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "10:35"
+    },
+    {
+      "id": 467,
+      "from": "Bengaluru",
+      "destination": "Siraguppa",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:40"
+    },
+    {
+      "id": 468,
+      "from": "Bengaluru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 469,
+      "from": "Kgf",
+      "destination": "Jalhali",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:50"
+    },
+    {
+      "id": 470,
+      "from": "Kolar",
+      "destination": "Muddebihala",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:00"
+    },
+    {
+      "id": 471,
+      "from": "Shapura",
+      "destination": "Bengaluru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:05"
+    },
+    {
+      "id": 472,
+      "from": "Bengaluru",
+      "destination": "Maski",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:10"
+    },
+    {
+      "id": 473,
+      "from": "Kgf",
+      "destination": "Daddesugur",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:15"
+    },
+    {
+      "id": 474,
+      "from": "Bengaluru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "22:00"
+    },
+    {
+      "id": 475,
+      "from": "Chintamani",
+      "destination": "Shapura",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:30"
+    },
+    {
+      "id": 476,
+      "from": "Chintamani",
+      "destination": "Devadurga",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:35"
+    },
+    {
+      "id": 477,
+      "from": "Bengaluru",
+      "destination": "Lingasuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:40"
+    },
+    {
+      "id": 478,
+      "from": "Shapura",
+      "destination": "Kembavi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "02:45"
+    },
+    {
+      "id": 479,
+      "from": "Bengaluru",
+      "destination": "Manvi",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "03:00"
+    },
+    {
+      "id": 480,
+      "from": "Chintamani",
+      "destination": "Sindhanuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "03:15"
+    },
+    {
+      "id": 481,
+      "from": "Chintamani",
+      "destination": "Raichuru",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "03:20"
+    },
+    {
+      "id": 482,
+      "from": "Bengaluru",
+      "destination": "Yadagiri",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:30"
+    },
+    {
+      "id": 483,
+      "from": "Devadurga",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "22:45"
+    },
+    {
+      "id": 484,
+      "from": "Hassan",
+      "destination": "Mantralaya",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "00:15"
+    },
+    {
+      "id": 485,
+      "from": "Mantralaya",
+      "destination": "Hassan",
+      "serviceClass": "Express",
+      "via": "Chitradurga",
+      "departureTime": "00:20"
+    },
+    {
+      "id": 486,
+      "from": "Bengaluru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Kondlahalli",
+      "departureTime": "23:45"
+    },
+    {
+      "id": 487,
+      "from": "Bengaluru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Kondlahalli",
+      "departureTime": "01:45"
+    },
+    {
+      "id": 488,
+      "from": "Bengaluru",
+      "destination": "Rayadurga",
+      "serviceClass": "Express",
+      "via": "Kondlahalli",
+      "departureTime": "02:45"
+    },
+    {
+      "id": 489,
+      "from": "Maski",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "23:45"
+    },
+    {
+      "id": 490,
+      "from": "Maski",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "23:30"
+    },
+    {
+      "id": 491,
+      "from": "Kalburgi",
+      "destination": "Mysuru",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "01:30"
+    },
+    {
+      "id": 492,
+      "from": "Bengaluru",
+      "destination": "Afzalpura",
+      "serviceClass": "Express",
+      "via": "Rampura",
+      "departureTime": "01:00"
+    },
+    {
+      "id": 493,
+      "from": "Muddebihala",
+      "destination": "Chikkaballapura",
+      "serviceClass": "Express",
+      "via": "Hiriyuru",
+      "departureTime": "02:15"
+    }
+  ]
+}

@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>City Name Corrector — Adjustable Threshold + CSV</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
+            background: #f4f7fc;
+            padding: 30px 20px;
+            color: #1e293b;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 6px;
+            flex-wrap: wrap;
+        }
+
+        h1 small {
+            font-size: 15px;
+            font-weight: 400;
+            color: #475569;
+        }
+
+        .subhead {
+            color: #475569;
+            margin-bottom: 28px;
+            font-size: 16px;
+            border-left: 4px solid #3b82f6;
+            padding-left: 16px;
+            background: #eef2ff;
+            border-radius: 0 8px 8px 0;
+            line-height: 1.6;
+        }
+
+        .upload-zone {
+            background: #fff;
+            border: 2px dashed #cbd5e1;
+            border-radius: 16px;
+            padding: 40px 30px;
+            text-align: center;
+            transition: border-color 0.25s, background 0.25s;
+            cursor: pointer;
+            margin-bottom: 28px;
+        }
+
+        .upload-zone:hover {
+            border-color: #94a3b8;
+            background: #fafcff;
+        }
+
+        .upload-zone.dragover {
+            border-color: #3b82f6;
+            background: #eff6ff;
+        }
+
+        .upload-zone .icon {
+            font-size: 48px;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .upload-zone h3 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .upload-zone p {
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        #fileInput {
+            display: none;
+        }
+
+        .file-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 24px;
+        }
+
+        .file-chip {
+            background: #e2e8f0;
+            padding: 6px 16px 6px 14px;
+            border-radius: 40px;
+            font-size: 14px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .file-chip .remove {
+            cursor: pointer;
+            font-weight: 700;
+            color: #94a3b8;
+            transition: color 0.2s;
+            font-size: 16px;
+            line-height: 1;
+        }
+
+        .file-chip .remove:hover {
+            color: #ef4444;
+        }
+
+        .file-chip .badge {
+            background: #3b82f6;
+            color: #fff;
+            font-size: 11px;
+            border-radius: 30px;
+            padding: 1px 10px;
+            font-weight: 600;
+        }
+
+        /* threshold control */
+        .threshold-control {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 16px 24px;
+            background: #f8fafc;
+            padding: 14px 20px;
+            border-radius: 40px;
+            margin-bottom: 20px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .threshold-control label {
+            font-weight: 500;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .threshold-control input[type="range"] {
+            width: 180px;
+            cursor: pointer;
+        }
+
+        .threshold-control .threshold-value {
+            font-weight: 700;
+            color: #0f172a;
+            min-width: 40px;
+            text-align: center;
+        }
+
+        .threshold-control .hint {
+            font-size: 13px;
+            color: #64748b;
+            margin-left: 8px;
+        }
+
+        .action-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            border: none;
+            padding: 10px 28px;
+            border-radius: 40px;
+            font-weight: 600;
+            font-size: 14px;
+            cursor: pointer;
+            transition: background 0.2s, transform 0.1s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn:active {
+            transform: scale(0.97);
+        }
+
+        .btn-primary {
+            background: #1e293b;
+            color: #fff;
+        }
+
+        .btn-primary:hover {
+            background: #0f172a;
+            box-shadow: 0 4px 12px rgba(30, 41, 59, 0.25);
+        }
+
+        .btn-primary:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .btn-success {
+            background: #059669;
+            color: #fff;
+        }
+
+        .btn-success:hover {
+            background: #047857;
+        }
+
+        .btn-success:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 1.5px solid #cbd5e1;
+            color: #334155;
+        }
+
+        .btn-outline:hover {
+            background: #f1f5f9;
+            border-color: #94a3b8;
+        }
+
+        .btn-outline-secondary {
+            background: transparent;
+            border: 1.5px solid #94a3b8;
+            color: #1e293b;
+        }
+
+        .btn-outline-secondary:hover {
+            background: #e2e8f0;
+        }
+
+        .stats {
+            margin-left: auto;
+            font-size: 14px;
+            color: #475569;
+            background: #f1f5f9;
+            padding: 6px 18px;
+            border-radius: 40px;
+            white-space: nowrap;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px 14px;
+            align-items: center;
+        }
+
+        .stats .stat-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .stats .stat-item .num {
+            font-weight: 700;
+            color: #0f172a;
+        }
+
+        .results-wrapper {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            border: 1px solid #e9edf2;
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
+
+        .results-header {
+            padding: 18px 24px;
+            background: #f8fafc;
+            border-bottom: 1px solid #e9edf2;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .results-header h2 {
+            font-size: 18px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .results-header h2 .count {
+            background: #3b82f6;
+            color: #fff;
+            font-size: 13px;
+            border-radius: 40px;
+            padding: 0 14px;
+            line-height: 26px;
+            font-weight: 600;
+        }
+
+        .results-body {
+            padding: 20px 24px 24px;
+            overflow-x: auto;
+        }
+
+        .section-divider {
+            border-top: 2px solid #e2e8f0;
+            margin: 30px 0 20px;
+            padding-top: 10px;
+        }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .section-title .badge {
+            background: #e2e8f0;
+            font-size: 13px;
+            padding: 0 14px;
+            border-radius: 30px;
+            line-height: 26px;
+            font-weight: 600;
+            color: #1e293b;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+
+        th {
+            text-align: left;
+            padding: 12px 12px 10px 0;
+            font-weight: 600;
+            color: #475569;
+            border-bottom: 2px solid #e2e8f0;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.4px;
+        }
+
+        td {
+            padding: 14px 12px 14px 0;
+            border-bottom: 1px solid #f1f5f9;
+            vertical-align: top;
+            line-height: 1.5;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        .col-file {
+            font-weight: 500;
+            color: #0f172a;
+            white-space: nowrap;
+            min-width: 120px;
+        }
+
+        .col-path {
+            color: #64748b;
+            font-family: monospace;
+            font-size: 13px;
+            word-break: break-all;
+            min-width: 180px;
+        }
+
+        .col-wrong {
+            color: #b91c1c;
+            font-weight: 500;
+            background: #fef2f2;
+            padding: 4px 12px;
+            border-radius: 20px;
+            display: inline-block;
+            font-size: 13px;
+            border: 1px solid #fecaca;
+        }
+
+        .col-correct {
+            color: #065f46;
+            font-weight: 500;
+            background: #ecfdf5;
+            padding: 4px 12px;
+            border-radius: 20px;
+            display: inline-block;
+            font-size: 13px;
+            border: 1px solid #a7f3d0;
+        }
+
+        .col-action .fix-btn {
+            background: #dbeafe;
+            border: none;
+            color: #1d4ed8;
+            padding: 4px 16px;
+            border-radius: 30px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        .col-action .fix-btn:hover {
+            background: #bfdbfe;
+        }
+
+        .col-action .fix-btn.fixed {
+            background: #d1fae5;
+            color: #065f46;
+            cursor: default;
+        }
+
+        .col-action .fix-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: #94a3b8;
+        }
+
+        .empty-state .big-icon {
+            font-size: 48px;
+            display: block;
+            margin-bottom: 12px;
+        }
+
+        .empty-state h3 {
+            color: #475569;
+            font-weight: 500;
+        }
+
+        /* all places list */
+        .place-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .place-item {
+            border-bottom: 1px solid #f1f5f9;
+            padding: 10px 0;
+        }
+
+        .place-item:last-child {
+            border-bottom: none;
+        }
+
+        .place-summary {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px;
+            cursor: pointer;
+        }
+
+        .place-summary .name {
+            font-weight: 600;
+            font-size: 15px;
+            min-width: 140px;
+        }
+
+        .place-summary .count {
+            background: #e2e8f0;
+            padding: 0 14px;
+            border-radius: 30px;
+            font-size: 13px;
+            line-height: 26px;
+            color: #1e293b;
+        }
+
+        .place-summary .status {
+            font-size: 13px;
+            padding: 2px 12px;
+            border-radius: 30px;
+        }
+
+        .place-summary .status.correct {
+            background: #d1fae5;
+            color: #065f46;
+        }
+
+        .place-summary .status.wrong {
+            background: #fef2f2;
+            color: #b91c1c;
+        }
+
+        .place-summary .details-toggle {
+            margin-left: auto;
+            background: transparent;
+            border: none;
+            color: #3b82f6;
+            font-weight: 600;
+            cursor: pointer;
+            font-size: 13px;
+            padding: 4px 12px;
+            border-radius: 20px;
+            transition: background 0.2s;
+        }
+
+        .place-summary .details-toggle:hover {
+            background: #eff6ff;
+        }
+
+        .place-details {
+            margin-top: 12px;
+            padding: 12px 16px;
+            background: #f8fafc;
+            border-radius: 10px;
+            display: none;
+        }
+
+        .place-details.open {
+            display: block;
+        }
+
+        .place-details table {
+            font-size: 13px;
+        }
+
+        .place-details table th {
+            font-size: 11px;
+            padding: 8px 8px 6px 0;
+        }
+
+        .place-details table td {
+            padding: 8px 8px 8px 0;
+            border-bottom: 1px solid #e9edf2;
+        }
+
+        .place-details table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .fix-btn-small {
+            background: #dbeafe;
+            border: none;
+            color: #1d4ed8;
+            padding: 2px 14px;
+            border-radius: 30px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        .fix-btn-small:hover {
+            background: #bfdbfe;
+        }
+
+        .fix-btn-small.fixed {
+            background: #d1fae5;
+            color: #065f46;
+            cursor: default;
+        }
+
+        .fix-btn-small:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .tick-mark {
+            color: #059669;
+            font-weight: 700;
+            margin-right: 4px;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: #0f172a;
+            color: #f8fafc;
+            padding: 14px 28px;
+            border-radius: 12px;
+            font-size: 14px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+            opacity: 0;
+            transform: translateY(20px) scale(0.96);
+            transition: opacity 0.3s, transform 0.3s;
+            pointer-events: none;
+            max-width: 420px;
+        }
+
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+            pointer-events: auto;
+        }
+
+        .toast.success {
+            background: #065f46;
+        }
+
+        .toast.error {
+            background: #991b1b;
+        }
+
+        @media (max-width: 700px) {
+            body {
+                padding: 16px 12px;
+            }
+
+            .upload-zone {
+                padding: 28px 16px;
+            }
+
+            .results-body {
+                padding: 16px 12px;
+            }
+
+            table {
+                font-size: 13px;
+            }
+
+            th,
+            td {
+                padding: 10px 8px 10px 0;
+            }
+
+            .col-file {
+                min-width: 70px;
+            }
+
+            .col-path {
+                min-width: 100px;
+                font-size: 12px;
+            }
+
+            .action-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .stats {
+                margin-left: 0;
+                text-align: center;
+                justify-content: center;
+                white-space: normal;
+            }
+
+            .btn {
+                justify-content: center;
+            }
+
+            .results-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .threshold-control {
+                flex-direction: column;
+                align-items: stretch;
+                border-radius: 16px;
+            }
+
+            .threshold-control label {
+                justify-content: center;
+            }
+
+            .threshold-control input[type="range"] {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>🔍 City Name Corrector <small>adjustable similarity · CSV import/export</small></h1>
+        <div class="subhead">
+            Upload JSON files — all string values that look like place names are extracted, grouped by similarity,
+            and displayed alphabetically. Adjust the threshold to control grouping sensitivity.
+            Use CSV export/import to manually review and apply corrections.
+        </div>
+
+        <div class="upload-zone" id="dropZone">
+            <span class="icon">📂</span>
+            <h3>Drop your JSON files here</h3>
+            <p>or click to browse · supports <strong>multiple</strong> files</p>
+            <input type="file" id="fileInput" accept=".json,application/json" multiple />
+        </div>
+
+        <div class="file-list" id="fileList"></div>
+
+        <!-- Threshold control -->
+        <div class="threshold-control">
+            <label>
+                Similarity threshold:
+                <span class="threshold-value" id="thresholdDisplay">70</span>%
+            </label>
+            <input type="range" id="thresholdSlider" min="1" max="100" value="70" />
+            <span class="hint">(auto‑applies when you move)</span>
+        </div>
+
+        <div class="action-bar">
+            <button class="btn btn-primary" id="scanBtn" disabled>🔍 Scan & group</button>
+            <button class="btn btn-success" id="fixAllBtn" disabled>✅ Fix all errors</button>
+            <button class="btn btn-outline" id="clearBtn" disabled>🗑️ Clear all</button>
+            <button class="btn btn-outline-secondary" id="exportCsvBtn" disabled>📥 Export CSV</button>
+            <button class="btn btn-outline-secondary" id="importCsvBtn" disabled>📤 Import CSV</button>
+            <input type="file" id="csvInput" accept=".csv" style="display:none;" />
+            <span class="stats" id="statsDisplay">
+                <span class="stat-item">📁 <span class="num" id="statFiles">0</span></span>
+                <span class="stat-item">📍 <span class="num" id="statDistinct">0</span></span>
+                <span class="stat-item">⚠️ <span class="num" id="statErrors">0</span></span>
+                <span class="stat-item">✅ <span class="num" id="statCorrected">0</span></span>
+                <span class="stat-item">⏳ <span class="num" id="statRemaining">0</span></span>
+            </span>
+        </div>
+
+        <!-- RESULTS: errors table + all places -->
+        <div class="results-wrapper">
+            <div class="results-header">
+                <h2>📋 Spelling Errors <span class="count" id="errorCount">0</span></h2>
+                <span style="font-size:13px; color:#64748b;" id="lastScanTime"></span>
+            </div>
+            <div class="results-body" id="resultsBody">
+                <div class="empty-state">
+                    <span class="big-icon">📄</span>
+                    <h3>No files loaded yet</h3>
+                    <p>Upload one or more JSON files to start scanning.</p>
+                </div>
+            </div>
+
+            <!-- All places section -->
+            <div id="allPlacesSection" style="display:none; padding: 0 24px 24px;">
+                <div class="section-divider"></div>
+                <div class="section-title">
+                    📍 All Places (Alphabetical)
+                    <span class="badge" id="distinctBadge">0 distinct</span>
+                </div>
+                <div id="allPlacesContainer"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script>
+        // ─── Levenshtein & similarity ──────────────────────────────
+        function levenshtein(a, b) {
+            if (a.length === 0) return b.length;
+            if (b.length === 0) return a.length;
+            const matrix = [];
+            for (let i = 0; i <= b.length; i++) matrix[i] = [i];
+            for (let j = 0; j <= a.length; j++) matrix[0][j] = j;
+            for (let i = 1; i <= b.length; i++) {
+                for (let j = 1; j <= a.length; j++) {
+                    if (b[i - 1] === a[j - 1]) {
+                        matrix[i][j] = matrix[i - 1][j - 1];
+                    } else {
+                        matrix[i][j] = Math.min(
+                            matrix[i - 1][j - 1] + 1,
+                            matrix[i][j - 1] + 1,
+                            matrix[i - 1][j] + 1
+                        );
+                    }
+                }
+            }
+            return matrix[b.length][a.length];
+        }
+
+        function similarity(str1, str2) {
+            const maxLen = Math.max(str1.length, str2.length);
+            if (maxLen === 0) return 1.0;
+            const dist = levenshtein(str1.toLowerCase(), str2.toLowerCase());
+            return 1 - dist / maxLen;
+        }
+
+        // ─── State ──────────────────────────────────────────────────
+        let uploadedFiles = [];
+        let allStrings = []; // { file, path, value }
+        let clusters = [];
+        let errorEntries = [];
+        let fixedSet = new Set(); // key "file|path|wrong"
+        let uniqueValues = [];
+        let threshold = 70; // default
+
+        // DOM refs
+        const dropZone = document.getElementById('dropZone');
+        const fileInput = document.getElementById('fileInput');
+        const fileListEl = document.getElementById('fileList');
+        const scanBtn = document.getElementById('scanBtn');
+        const fixAllBtn = document.getElementById('fixAllBtn');
+        const clearBtn = document.getElementById('clearBtn');
+        const exportCsvBtn = document.getElementById('exportCsvBtn');
+        const importCsvBtn = document.getElementById('importCsvBtn');
+        const csvInput = document.getElementById('csvInput');
+        const resultsBody = document.getElementById('resultsBody');
+        const errorCount = document.getElementById('errorCount');
+        const lastScanTime = document.getElementById('lastScanTime');
+        const toast = document.getElementById('toast');
+        const allPlacesSection = document.getElementById('allPlacesSection');
+        const allPlacesContainer = document.getElementById('allPlacesContainer');
+        const distinctBadge = document.getElementById('distinctBadge');
+        const thresholdSlider = document.getElementById('thresholdSlider');
+        const thresholdDisplay = document.getElementById('thresholdDisplay');
+
+        // Stat elements
+        const statFiles = document.getElementById('statFiles');
+        const statDistinct = document.getElementById('statDistinct');
+        const statErrors = document.getElementById('statErrors');
+        const statCorrected = document.getElementById('statCorrected');
+        const statRemaining = document.getElementById('statRemaining');
+
+        // ─── Helpers ──────────────────────────────────────────────────
+        function showToast(msg, type = 'info') {
+            toast.textContent = msg;
+            toast.className = 'toast';
+            if (type === 'success') toast.classList.add('success');
+            if (type === 'error') toast.classList.add('error');
+            toast.classList.add('show');
+            clearTimeout(toast._hide);
+            toast._hide = setTimeout(() => toast.classList.remove('show'), 3400);
+        }
+
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        function updateStats() {
+            const totalErrors = errorEntries.length;
+            const corrected = fixedSet.size;
+            const remaining = totalErrors - corrected;
+            const distinct = uniqueValues.length;
+
+            statFiles.textContent = uploadedFiles.length;
+            statDistinct.textContent = distinct;
+            statErrors.textContent = totalErrors;
+            statCorrected.textContent = corrected;
+            statRemaining.textContent = remaining;
+
+            errorCount.textContent = totalErrors;
+            distinctBadge.textContent = distinct + ' distinct';
+
+            // Enable/disable CSV buttons
+            exportCsvBtn.disabled = errorEntries.length === 0;
+            importCsvBtn.disabled = errorEntries.length === 0;
+            fixAllBtn.disabled = errorEntries.length === 0;
+        }
+
+        // ─── File management ──────────────────────────────────────
+        function renderFileChips() {
+            fileListEl.innerHTML = '';
+            uploadedFiles.forEach((f, idx) => {
+                const chip = document.createElement('span');
+                chip.className = 'file-chip';
+                chip.innerHTML = `
+              📄 ${f.name}
+              <span class="badge">${f.size}</span>
+              <span class="remove" data-index="${idx}">✕</span>
+            `;
+                chip.querySelector('.remove').addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    removeFile(idx);
+                });
+                fileListEl.appendChild(chip);
+            });
+            scanBtn.disabled = uploadedFiles.length === 0;
+            clearBtn.disabled = uploadedFiles.length === 0;
+        }
+
+        function removeFile(idx) {
+            uploadedFiles.splice(idx, 1);
+            allStrings = [];
+            clusters = [];
+            errorEntries = [];
+            fixedSet.clear();
+            uniqueValues = [];
+            renderResults();
+            renderFileChips();
+            updateStats();
+            lastScanTime.textContent = '';
+            allPlacesSection.style.display = 'none';
+            showToast('File removed', 'info');
+        }
+
+        function loadFiles(fileList) {
+            let loaded = 0;
+            for (const file of fileList) {
+                if (!file.name.toLowerCase().endsWith('.json')) {
+                    showToast(`"${file.name}" is not JSON — skipped`, 'error');
+                    continue;
+                }
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    try {
+                        const rawText = e.target.result;
+                        const content = JSON.parse(rawText);
+                        const size = (rawText.length / 1024).toFixed(1) + 'KB';
+                        uploadedFiles.push({ name: file.name, content, rawText, size });
+                        loaded++;
+                        if (loaded === fileList.length || loaded === uploadedFiles.length) {
+                            renderFileChips();
+                            allStrings = [];
+                            clusters = [];
+                            errorEntries = [];
+                            fixedSet.clear();
+                            uniqueValues = [];
+                            renderResults();
+                            lastScanTime.textContent = '';
+                            allPlacesSection.style.display = 'none';
+                            updateStats();
+                            showToast(`Loaded ${loaded} file(s)`, 'success');
+                        }
+                    } catch (err) {
+                        showToast(`Error parsing "${file.name}": ${err.message}`, 'error');
+                    }
+                };
+                reader.onerror = () => showToast(`Failed to read "${file.name}"`, 'error');
+                reader.readAsText(file);
+            }
+        }
+
+        // ─── Extract strings ──────────────────────────────────────
+        function extractStrings(obj, path, fileName) {
+            if (obj === null || obj === undefined) return;
+            if (typeof obj === 'string') {
+                const trimmed = obj.trim();
+                if (trimmed.length >= 2 && /[a-zA-Z]/.test(trimmed)) {
+                    allStrings.push({ file: fileName, path: path || '(root)', value: trimmed });
+                }
+                return;
+            }
+            if (Array.isArray(obj)) {
+                for (let i = 0; i < obj.length; i++) {
+                    extractStrings(obj[i], `${path}[${i}]`, fileName);
+                }
+                return;
+            }
+            if (typeof obj === 'object') {
+                for (const [key, val] of Object.entries(obj)) {
+                    const newPath = path ? `${path}.${key}` : key;
+                    extractStrings(val, newPath, fileName);
+                }
+                return;
+            }
+        }
+
+        // ─── Improved clustering (order‑independent) ──────────────
+        function clusterStrings(thresh) {
+            if (allStrings.length === 0) return [];
+
+            const valueMap = new Map();
+            for (const s of allStrings) {
+                const key = s.value;
+                if (!valueMap.has(key)) {
+                    valueMap.set(key, { count: 0, occurrences: [] });
+                }
+                const entry = valueMap.get(key);
+                entry.count++;
+                entry.occurrences.push({ file: s.file, path: s.path });
+            }
+            const uniqueValues = Array.from(valueMap.keys());
+            const n = uniqueValues.length;
+
+            // Build adjacency: edge if similarity >= threshold
+            const adj = Array.from({ length: n }, () => Array(n).fill(false));
+            for (let i = 0; i < n; i++) {
+                adj[i][i] = true;
+                for (let j = i + 1; j < n; j++) {
+                    const sim = similarity(uniqueValues[i], uniqueValues[j]);
+                    if (sim >= thresh / 100) {
+                        adj[i][j] = true;
+                        adj[j][i] = true;
+                    }
+                }
+            }
+
+            // Find connected components
+            const visited = Array(n).fill(false);
+            const components = [];
+
+            for (let i = 0; i < n; i++) {
+                if (visited[i]) continue;
+                const stack = [i];
+                visited[i] = true;
+                const comp = [];
+                while (stack.length) {
+                    const node = stack.pop();
+                    comp.push(node);
+                    for (let j = 0; j < n; j++) {
+                        if (adj[node][j] && !visited[j]) {
+                            visited[j] = true;
+                            stack.push(j);
+                        }
+                    }
+                }
+                components.push(comp);
+            }
+
+            // Build clusters
+            const clusters = [];
+            for (const comp of components) {
+                const groupValues = comp.map(idx => uniqueValues[idx]);
+                let best = groupValues[0];
+                let bestCount = valueMap.get(best).count;
+                for (const val of groupValues) {
+                    const cnt = valueMap.get(val).count;
+                    if (cnt > bestCount || (cnt === bestCount && val.length > best.length)) {
+                        best = val;
+                        bestCount = cnt;
+                    }
+                }
+                const occurrences = [];
+                for (const val of groupValues) {
+                    const occs = valueMap.get(val).occurrences;
+                    for (const o of occs) {
+                        occurrences.push({ file: o.file, path: o.path, value: val });
+                    }
+                }
+                clusters.push({
+                    canonical: best,
+                    variants: occurrences
+                });
+            }
+
+            return clusters;
+        }
+
+        function buildErrorEntries(clusters) {
+            const entries = [];
+            for (const cluster of clusters) {
+                const canonical = cluster.canonical;
+                for (const occ of cluster.variants) {
+                    if (occ.value !== canonical) {
+                        entries.push({
+                            file: occ.file,
+                            path: occ.path,
+                            wrong: occ.value,
+                            correct: canonical,
+                            fixed: false
+                        });
+                    }
+                }
+            }
+            return entries;
+        }
+
+        function buildUniqueValues(clusters) {
+            const canonicalMap = new Map();
+            for (const cluster of clusters) {
+                const canon = cluster.canonical;
+                for (const occ of cluster.variants) {
+                    canonicalMap.set(occ.value, canon);
+                }
+            }
+
+            const map = new Map();
+            for (const s of allStrings) {
+                if (!map.has(s.value)) map.set(s.value, []);
+                map.get(s.value).push({ file: s.file, path: s.path });
+            }
+
+            const result = [];
+            for (const [value, occs] of map) {
+                const canon = canonicalMap.get(value) || value;
+                result.push({
+                    value: value,
+                    canonical: canon,
+                    occurrences: occs
+                });
+            }
+            result.sort((a, b) => a.value.localeCompare(b.value));
+            return result;
+        }
+
+        // ─── Scan / re‑scan ──────────────────────────────────────
+        function performScan() {
+            if (uploadedFiles.length === 0) {
+                showToast('No files to scan', 'error');
+                return;
+            }
+
+            allStrings = [];
+            for (const f of uploadedFiles) {
+                extractStrings(f.content, '', f.name);
+            }
+
+            if (allStrings.length === 0) {
+                showToast('No string values found.', 'error');
+                return;
+            }
+
+            doClusteringAndRender();
+        }
+
+        function doClusteringAndRender() {
+            clusters = clusterStrings(threshold);
+            errorEntries = buildErrorEntries(clusters);
+            uniqueValues = buildUniqueValues(clusters);
+            fixedSet.clear();
+
+            renderResults();
+            renderAllPlaces();
+            updateStats();
+            lastScanTime.textContent = `Last scan (threshold ${threshold}%): ${new Date().toLocaleString()}`;
+            allPlacesSection.style.display = 'block';
+
+            if (errorEntries.length === 0) {
+                showToast('🎉 No spelling variations found.', 'success');
+            } else {
+                showToast(`Found ${errorEntries.length} potential spelling variation(s).`, 'info');
+            }
+        }
+
+        // ─── Render error table ──────────────────────────────────
+        function renderResults() {
+            if (errorEntries.length === 0) {
+                resultsBody.innerHTML = `
+              <div class="empty-state">
+                <span class="big-icon">✅</span>
+                <h3>No spelling errors found</h3>
+                <p>Upload JSON files and click "Scan & group" to check.</p>
+              </div>
+            `;
+                errorCount.textContent = '0';
+                return;
+            }
+
+            let html = `
+            <table>
+              <thead>
+                <tr>
+                  <th class="col-file">File</th>
+                  <th class="col-path">Path</th>
+                  <th class="col-wrong">Found (wrong)</th>
+                  <th class="col-correct">Suggested</th>
+                  <th class="col-action">Action</th>
+                </tr>
+              </thead>
+              <tbody>
+          `;
+
+            for (const r of errorEntries) {
+                const key = `${r.file}|${r.path}|${r.wrong}`;
+                const isFixed = fixedSet.has(key);
+                const btnLabel = isFixed ? '✅ Fixed' : '🔧 Fix';
+                const btnClass = isFixed ? 'fix-btn fixed' : 'fix-btn';
+                html += `
+                <tr>
+                  <td class="col-file">${escapeHtml(r.file)}</td>
+                  <td class="col-path">${escapeHtml(r.path)}</td>
+                  <td><span class="col-wrong">${escapeHtml(r.wrong)}</span></td>
+                  <td><span class="col-correct">${escapeHtml(r.correct)}</span></td>
+                  <td class="col-action">
+                    <button class="${btnClass}" data-key="${escapeHtml(key)}" ${isFixed ? 'disabled' : ''}>
+                      ${btnLabel}
+                    </button>
+                  </td>
+                </tr>
+              `;
+            }
+
+            html += `</tbody></table>`;
+            resultsBody.innerHTML = html;
+
+            // Attach fix events
+            resultsBody.querySelectorAll('.fix-btn:not(.fixed)').forEach(btn => {
+                btn.addEventListener('click', function () {
+                    const key = this.dataset.key;
+                    fixSingle(key);
+                });
+            });
+
+            errorCount.textContent = errorEntries.length;
+        }
+
+        // ─── Render all places alphabetical ──────────────────────
+        function renderAllPlaces() {
+            if (uniqueValues.length === 0) {
+                allPlacesContainer.innerHTML = '<p style="color:#94a3b8;">No place names found.</p>';
+                return;
+            }
+
+            let html = '<ul class="place-list">';
+            for (const item of uniqueValues) {
+                const isCanonical = item.value === item.canonical;
+                const statusText = isCanonical ? '✅ canonical' : '⚠️ variant';
+                const statusClass = isCanonical ? 'correct' : 'wrong';
+                const count = item.occurrences.length;
+                html += `
+              <li class="place-item">
+                <div class="place-summary" data-value="${escapeHtml(item.value)}">
+                  <span class="name">${escapeHtml(item.value)}</span>
+                  <span class="count">${count} occurrence${count > 1 ? 's' : ''}</span>
+                  <span class="status ${statusClass}">${statusText}</span>
+                  <button class="details-toggle" data-value="${escapeHtml(item.value)}">▶ Details</button>
+                </div>
+                <div class="place-details" id="details-${escapeHtml(item.value)}">
+                  <table>
+                    <thead><tr><th>File</th><th>Path</th><th>Status</th><th>Action</th></tr></thead>
+                    <tbody>
+                `;
+                for (const occ of item.occurrences) {
+                    const isWrong = occ.value !== item.canonical;
+                    const key = `${occ.file}|${occ.path}|${occ.value}`;
+                    const isFixed = fixedSet.has(key);
+                    let statusDisplay = '';
+                    let actionHtml = '';
+                    if (isWrong) {
+                        if (isFixed) {
+                            statusDisplay = '<span class="tick-mark">✅</span> fixed';
+                            actionHtml = `<button class="fix-btn-small fixed" disabled>✅ Fixed</button>`;
+                        } else {
+                            statusDisplay = '⚠️ misspelled';
+                            actionHtml =
+                                `<button class="fix-btn-small" data-key="${escapeHtml(key)}">🔧 Fix to "${escapeHtml(item.canonical)}"</button>`;
+                        }
+                    } else {
+                        statusDisplay = '✅ correct';
+                        actionHtml = `<span style="color:#94a3b8;">—</span>`;
+                    }
+                    html += `
+                    <tr>
+                      <td>${escapeHtml(occ.file)}</td>
+                      <td style="font-family:monospace;font-size:13px;">${escapeHtml(occ.path)}</td>
+                      <td>${statusDisplay}</td>
+                      <td>${actionHtml}</td>
+                    </tr>
+                  `;
+                }
+                html += `
+                    </tbody>
+                  </table>
+                </div>
+              </li>
+            `;
+            }
+            html += '</ul>';
+            allPlacesContainer.innerHTML = html;
+
+            // Attach toggle details
+            document.querySelectorAll('.details-toggle').forEach(btn => {
+                btn.addEventListener('click', function (e) {
+                    e.stopPropagation();
+                    const val = this.dataset.value;
+                    const panel = document.getElementById(`details-${val}`);
+                    if (panel) {
+                        panel.classList.toggle('open');
+                        this.textContent = panel.classList.contains('open') ? '▼ Details' : '▶ Details';
+                    }
+                });
+            });
+
+            // Attach fix buttons inside details
+            allPlacesContainer.querySelectorAll('.fix-btn-small:not(.fixed)').forEach(btn => {
+                btn.addEventListener('click', function () {
+                    const key = this.dataset.key;
+                    fixSingle(key);
+                });
+            });
+        }
+
+        // ─── Fix single ──────────────────────────────────────────
+        function fixSingle(key) {
+            const parts = key.split('|');
+            if (parts.length !== 3) return;
+            const [fileName, path, wrong] = parts;
+
+            const entry = errorEntries.find(r => r.file === fileName && r.path === path && r.wrong === wrong);
+            if (!entry) {
+                showToast('Error entry not found', 'error');
+                return;
+            }
+
+            const fileData = uploadedFiles.find(f => f.name === fileName);
+            if (!fileData) {
+                showToast('File not found', 'error');
+                return;
+            }
+
+            try {
+                const fixed = applyFix(fileData.content, path, wrong, entry.correct);
+                if (fixed !== undefined) {
+                    fileData.content = fixed;
+                    fixedSet.add(key);
+                    renderResults();
+                    renderAllPlaces();
+                    updateStats();
+                    showToast(`✅ Fixed "${wrong}" → "${entry.correct}"`, 'success');
+                } else {
+                    showToast(`Could not fix "${wrong}" — path may have changed`, 'error');
+                }
+            } catch (err) {
+                showToast(`Error fixing: ${err.message}`, 'error');
+            }
+        }
+
+        // ─── Apply fix recursively ──────────────────────────────
+        function applyFix(obj, path, wrong, correct) {
+            const segments = parsePath(path);
+            if (segments.length === 0) return undefined;
+
+            let current = obj;
+            for (let i = 0; i < segments.length; i++) {
+                const seg = segments[i];
+                if (i === segments.length - 1) {
+                    if (typeof seg === 'number') {
+                        if (Array.isArray(current) && current[seg] === wrong) {
+                            current[seg] = correct;
+                            return obj;
+                        }
+                    } else {
+                        if (current && typeof current === 'object' && current[seg] === wrong) {
+                            current[seg] = correct;
+                            return obj;
+                        }
+                    }
+                    return undefined;
+                } else {
+                    if (typeof seg === 'number') {
+                        if (!Array.isArray(current) || current[seg] === undefined) return undefined;
+                        current = current[seg];
+                    } else {
+                        if (current === null || typeof current !== 'object' || current[seg] === undefined) return undefined;
+                        current = current[seg];
+                    }
+                }
+            }
+            return undefined;
+        }
+
+        function parsePath(path) {
+            if (path === '(root)') return [];
+            const segments = [];
+            let current = '';
+            let inBracket = false;
+            let bracketContent = '';
+            for (let i = 0; i < path.length; i++) {
+                const ch = path[i];
+                if (ch === '[') {
+                    inBracket = true;
+                    if (current) {
+                        segments.push(current);
+                        current = '';
+                    }
+                    continue;
+                }
+                if (ch === ']') {
+                    inBracket = false;
+                    const idx = parseInt(bracketContent, 10);
+                    if (!isNaN(idx)) segments.push(idx);
+                    bracketContent = '';
+                    continue;
+                }
+                if (inBracket) {
+                    bracketContent += ch;
+                    continue;
+                }
+                if (ch === '.') {
+                    if (current) {
+                        segments.push(current);
+                        current = '';
+                    }
+                    continue;
+                }
+                current += ch;
+            }
+            if (current) segments.push(current);
+            return segments;
+        }
+
+        // ─── Fix all ──────────────────────────────────────────────
+        function fixAll() {
+            if (errorEntries.length === 0) {
+                showToast('No errors to fix', 'info');
+                return;
+            }
+
+            let fixedCount = 0;
+            for (const r of errorEntries) {
+                const key = `${r.file}|${r.path}|${r.wrong}`;
+                if (!fixedSet.has(key)) {
+                    const fileData = uploadedFiles.find(f => f.name === r.file);
+                    if (fileData) {
+                        const fixed = applyFix(fileData.content, r.path, r.wrong, r.correct);
+                        if (fixed !== undefined) {
+                            fileData.content = fixed;
+                            fixedSet.add(key);
+                            fixedCount++;
+                        }
+                    }
+                }
+            }
+
+            renderResults();
+            renderAllPlaces();
+            updateStats();
+            showToast(`✅ Fixed ${fixedCount} error(s)`, 'success');
+            if (fixedCount === 0) showToast('All errors already fixed!', 'info');
+        }
+
+        // ─── Clear all ────────────────────────────────────────────
+        function clearAll() {
+            uploadedFiles = [];
+            allStrings = [];
+            clusters = [];
+            errorEntries = [];
+            fixedSet.clear();
+            uniqueValues = [];
+            renderResults();
+            renderFileChips();
+            updateStats();
+            lastScanTime.textContent = '';
+            allPlacesSection.style.display = 'none';
+            showToast('Cleared all', 'info');
+        }
+
+        // ─── CSV Export ─────────────────────────────────────────────
+        function exportCsv() {
+            if (errorEntries.length === 0) {
+                showToast('No errors to export.', 'info');
+                return;
+            }
+
+            let csv = 'file,path,wrong,correct\n';
+            for (const r of errorEntries) {
+                const isFixed = fixedSet.has(`${r.file}|${r.path}|${r.wrong}`);
+                const status = isFixed ? 'fixed' : 'pending';
+                csv += `"${r.file}","${r.path}","${r.wrong}","${r.correct}",${status}\n`;
+            }
+
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'corrections.csv';
+            link.click();
+            URL.revokeObjectURL(link.href);
+            showToast('CSV exported successfully.', 'success');
+        }
+
+        // ─── CSV Import ─────────────────────────────────────────────
+        function importCsv(file) {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                const content = e.target.result;
+                const lines = content.split(/\r?\n/).filter(line => line.trim() !== '');
+                if (lines.length < 2) {
+                    showToast('CSV must have header + data rows.', 'error');
+                    return;
+                }
+
+                // parse header
+                const header = lines[0].split(',').map(h => h.trim().replace(/^"|"$/g, ''));
+                const fileIdx = header.indexOf('file');
+                const pathIdx = header.indexOf('path');
+                const wrongIdx = header.indexOf('wrong');
+                const correctIdx = header.indexOf('correct');
+
+                if (fileIdx === -1 || pathIdx === -1 || wrongIdx === -1 || correctIdx === -1) {
+                    showToast('CSV must have columns: file, path, wrong, correct', 'error');
+                    return;
+                }
+
+                let fixedCount = 0;
+                for (let i = 1; i < lines.length; i++) {
+                    const cols = lines[i].split(',').map(c => c.trim().replace(/^"|"$/g, ''));
+                    if (cols.length <= Math.max(fileIdx, pathIdx, wrongIdx, correctIdx)) continue;
+                    const file = cols[fileIdx];
+                    const path = cols[pathIdx];
+                    const wrong = cols[wrongIdx];
+                    const correct = cols[correctIdx];
+                    if (!file || !path || !wrong || !correct) continue;
+
+                    const entry = errorEntries.find(r => r.file === file && r.path === path && r.wrong === wrong);
+                    if (entry) {
+                        const key = `${file}|${path}|${wrong}`;
+                        if (!fixedSet.has(key)) {
+                            const fileData = uploadedFiles.find(f => f.name === file);
+                            if (fileData) {
+                                const fixed = applyFix(fileData.content, path, wrong, correct);
+                                if (fixed !== undefined) {
+                                    fileData.content = fixed;
+                                    fixedSet.add(key);
+                                    fixedCount++;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                renderResults();
+                renderAllPlaces();
+                updateStats();
+                showToast(`✅ Imported and fixed ${fixedCount} error(s) from CSV.`, 'success');
+            };
+            reader.onerror = () => showToast('Failed to read CSV file.', 'error');
+            reader.readAsText(file);
+        }
+
+        // ─── Threshold auto‑apply ──────────────────────────────────
+        let debounceTimer;
+        thresholdSlider.addEventListener('input', function () {
+            thresholdDisplay.textContent = this.value;
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => {
+                const newVal = parseInt(this.value, 10);
+                if (!isNaN(newVal) && newVal >= 1 && newVal <= 100 && allStrings.length > 0) {
+                    threshold = newVal;
+                    doClusteringAndRender();
+                }
+            }, 300);
+        });
+
+        // ─── Event listeners ──────────────────────────────────────
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('dragover');
+        });
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.classList.remove('dragover');
+        });
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('dragover');
+            if (e.dataTransfer.files.length) {
+                loadFiles(e.dataTransfer.files);
+            }
+        });
+        dropZone.addEventListener('click', () => fileInput.click());
+
+        fileInput.addEventListener('change', () => {
+            if (fileInput.files.length) {
+                loadFiles(fileInput.files);
+                fileInput.value = '';
+            }
+        });
+
+        scanBtn.addEventListener('click', performScan);
+        fixAllBtn.addEventListener('click', fixAll);
+        clearBtn.addEventListener('click', clearAll);
+        exportCsvBtn.addEventListener('click', exportCsv);
+        importCsvBtn.addEventListener('click', () => csvInput.click());
+        csvInput.addEventListener('change', () => {
+            if (csvInput.files.length) {
+                importCsv(csvInput.files[0]);
+                csvInput.value = '';
+            }
+        });
+
+        // Init
+        renderFileChips();
+        renderResults();
+        updateStats();
+        allPlacesSection.style.display = 'none';
+        thresholdDisplay.textContent = threshold;
+        thresholdSlider.value = threshold;
+
+        console.log('✅ City Name Corrector ready. Adjust the slider – it auto‑applies!');
+    </script>
+</body>
+
+</html>
